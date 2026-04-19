@@ -1,0 +1,182 @@
+[
+{
+"wlb_label":"POOR",
+"topic":"developer_many_projects",
+"content":"Software developers handling more than 6 simultaneous projects per week often experience task-switching fatigue and reduced deep work capacity.",
+"recommendation":"Limit active development projects and allocate uninterrupted coding blocks."
+},
+{
+"wlb_label":"GOOD",
+"topic":"project_manager_many_projects",
+"content":"Project managers commonly coordinate multiple projects simultaneously and may manage 8–12 tasks effectively when proper delegation systems are in place.",
+"recommendation":"Use structured project tracking tools and delegate operational tasks."
+},
+{
+"wlb_label":"POOR",
+"topic":"long_commute",
+"content":"Commute times longer than 90 minutes significantly reduce recovery time and increase work-life imbalance.",
+"recommendation":"Adopt hybrid work schedules or flexible start times."
+},
+{
+"wlb_label":"MODERATE",
+"topic":"moderate_commute",
+"content":"Commutes between 30–60 minutes can gradually contribute to fatigue if combined with overtime work.",
+"recommendation":"Use commute time for relaxation such as listening to music or podcasts."
+},
+{
+"wlb_label":"GOOD",
+"topic":"no_commute_wfh",
+"content":"Employees working from home often recover better due to the absence of commuting stress.",
+"recommendation":"Maintain clear work boundaries to prevent work from extending into personal time."
+},
+{
+"wlb_label":"POOR",
+"topic":"excessive_meetings",
+"content":"Attending more than 20 meetings per week significantly disrupts focused work and increases mental exhaustion.",
+"recommendation":"Reduce unnecessary meetings and adopt asynchronous communication."
+},
+{
+"wlb_label":"MODERATE",
+"topic":"moderate_meetings",
+"content":"Employees attending 10–15 meetings per week may experience moderate cognitive load.",
+"recommendation":"Schedule meeting-free focus blocks."
+},
+{
+"wlb_label":"GOOD",
+"topic":"balanced_meetings",
+"content":"Employees attending fewer than 8 meetings per week usually maintain better focus and productivity.",
+"recommendation":"Continue prioritizing meaningful meetings."
+},
+{
+"wlb_label":"POOR",
+"topic":"no_breaks",
+"content":"Employees who take no breaks during workdays experience higher mental fatigue and productivity decline.",
+"recommendation":"Introduce at least two scheduled short breaks daily."
+},
+{
+"wlb_label":"GOOD",
+"topic":"regular_breaks",
+"content":"Taking multiple short breaks improves cognitive recovery and sustained productivity.",
+"recommendation":"Maintain regular breaks every 2–3 hours."
+},
+{
+"wlb_label":"POOR",
+"topic":"high_exhaustion",
+"content":"Employees reporting exhaustion levels above 4 frequently show early signs of burnout.",
+"recommendation":"Reduce workload temporarily and increase rest periods."
+},
+{
+"wlb_label":"MODERATE",
+"topic":"moderate_exhaustion",
+"content":"Moderate exhaustion often indicates accumulated workload stress over the week.",
+"recommendation":"Schedule restorative activities during evenings or weekends."
+},
+{
+"wlb_label":"GOOD",
+"topic":"low_exhaustion",
+"content":"Low exhaustion indicates healthy work pacing and adequate recovery.",
+"recommendation":"Continue maintaining balanced work routines."
+},
+{
+"wlb_label":"POOR",
+"topic":"unrealistic_deadlines",
+"content":"Frequent unrealistic deadlines force employees to work overtime and increase mental strain.",
+"recommendation":"Discuss deadline feasibility with managers and negotiate realistic schedules."
+},
+{
+"wlb_label":"MODERATE",
+"topic":"occasional_deadlines",
+"content":"Occasional tight deadlines may create temporary pressure but can be manageable.",
+"recommendation":"Plan buffer time between major tasks."
+},
+{
+"wlb_label":"POOR",
+"topic":"family_time_low_with_children",
+"content":"Employees with children who spend less than 3 hours weekly with family may experience emotional strain and work-life imbalance.",
+"recommendation":"Reserve protected family time during evenings or weekends."
+},
+{
+"wlb_label":"GOOD",
+"topic":"healthy_family_time",
+"content":"Employees spending more than 10 hours weekly with family often report better emotional well-being.",
+"recommendation":"Maintain consistent family engagement."
+},
+{
+"wlb_label":"POOR",
+"topic":"social_isolation",
+"content":"Low social interaction outside work can contribute to psychological stress.",
+"recommendation":"Schedule social activities with friends or colleagues."
+},
+{
+"wlb_label":"MODERATE",
+"topic":"moderate_social_interaction",
+"content":"Moderate social engagement helps maintain emotional resilience.",
+"recommendation":"Continue regular social interactions."
+},
+{
+"wlb_label":"POOR",
+"topic":"unpleasant_work_travel",
+"content":"Employees who frequently travel for work but report negative travel experiences may experience travel fatigue and burnout.",
+"recommendation":"Limit unnecessary travel or schedule recovery days after trips."
+},
+{
+"wlb_label":"GOOD",
+"topic":"enjoyable_work_travel",
+"content":"Employees who enjoy work travel often experience improved motivation and job satisfaction.",
+"recommendation":"Combine travel schedules with recovery periods."
+},
+{
+"wlb_label":"POOR",
+"topic":"fake_wfh_productivity",
+"content":"Some remote workers delay tasks during the day and complete them with late overtime, leading to extended work hours.",
+"recommendation":"Adopt structured daily work schedules and task prioritization."
+},
+{
+"wlb_label":"MODERATE",
+"topic":"mild_wfh_drift",
+"content":"Occasional delays in remote work schedules may increase overtime but are manageable.",
+"recommendation":"Set daily productivity checkpoints."
+},
+{
+"wlb_label":"POOR",
+"topic":"frequent_sick_days",
+"content":"Frequent sick days may indicate chronic stress or poor work recovery.",
+"recommendation":"Evaluate workload and improve work-rest balance."
+},
+{
+"wlb_label":"MODERATE",
+"topic":"rest_leaves",
+"content":"Taking occasional leave days for recovery helps prevent burnout.",
+"recommendation":"Encourage periodic rest days when workload peaks."
+},
+{
+"wlb_label":"POOR",
+"topic":"married_with_overtime",
+"content":"Married employees with significant overtime often experience conflict between family responsibilities and work demands.",
+"recommendation":"Limit overtime and plan family time proactively."
+},
+{
+"wlb_label":"GOOD",
+"topic":"balanced_work_family",
+"content":"Employees balancing work responsibilities with family engagement typically maintain stronger well-being.",
+"recommendation":"Continue structured work-family boundaries."
+},
+{
+"wlb_label":"POOR",
+"topic":"young_employees_overload",
+"content":"Early career employees taking excessive workloads may experience rapid burnout.",
+"recommendation":"Encourage mentorship and manageable task loads."
+},
+{
+"wlb_label":"MODERATE",
+"topic":"midcareer_balance",
+"content":"Mid-career professionals often balance productivity with growing personal responsibilities.",
+"recommendation":"Maintain structured time management."
+},
+{
+"wlb_label":"GOOD",
+"topic":"experienced_workers_balance",
+"content":"Experienced professionals often develop effective work pacing strategies.",
+"recommendation":"Continue leveraging experience to manage workload."
+}
+]
