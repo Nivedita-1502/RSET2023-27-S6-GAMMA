@@ -77,7 +77,7 @@ AI_Interview_Project/
 
 ---
 
-## 🤖 Models (Brief)
+## 🤖 Models
 
 * Uses semantic similarity techniques for evaluation
 * Sentence Transformers for embeddings
