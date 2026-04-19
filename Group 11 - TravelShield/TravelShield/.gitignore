@@ -1,0 +1,118 @@
+# ================================================================
+# TravelShield — Root .gitignore
+# ================================================================
+
+# ── Python / FastAPI (backend/) ──────────────────────────────────
+
+# Virtual environments — NEVER push these
+tf_env/
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Environment variables — NEVER push API keys
+.env
+*.env
+.env.local
+.env.production
+
+# Database — local only
+*.db
+*.sqlite
+*.sqlite3
+database.db
+
+# Uploaded files — local only
+backend/uploads/
+uploads/
+
+# ML model files — too large for git (use Git LFS or share separately)
+*.pkl
+*.h5
+*.pt
+*.pth
+models/
+
+# Logs
+*.log
+logs/
+
+# pytest
+.pytest_cache/
+htmlcov/
+.coverage
+
+# ── Flutter / Dart (travel_app/) ─────────────────────────────────
+
+# Build outputs
+**/build/
+travel_app/build/
+
+# Flutter tool files
+travel_app/.dart_tool/
+travel_app/.flutter-plugins
+travel_app/.flutter-plugins-dependencies
+travel_app/.pub-cache/
+travel_app/.pub/
+
+# Platform-specific generated files
+travel_app/android/.gradle/
+travel_app/android/captures/
+travel_app/android/local.properties
+travel_app/android/GeneratedPluginRegistrant.java
+travel_app/android/app/google-services.json
+
+travel_app/ios/.generated/
+travel_app/ios/Flutter/App.framework
+travel_app/ios/Flutter/Flutter.framework
+travel_app/ios/Flutter/Flutter.podspec
+travel_app/ios/Flutter/Generated.xcconfig
+travel_app/ios/Flutter/ephemeral/
+travel_app/ios/Flutter/app.flx
+travel_app/ios/Flutter/app.zip
+travel_app/ios/Flutter/flutter_assets/
+travel_app/ios/Flutter/flutter_export_environment.sh
+travel_app/ios/ServiceDefinitions.json
+travel_app/ios/Runner/GeneratedPluginRegistrant.*
+travel_app/ios/Pods/
+
+travel_app/macos/Flutter/GeneratedPluginRegistrant.swift
+travel_app/macos/Flutter/ephemeral/
+
+travel_app/linux/flutter/ephemeral/
+travel_app/windows/flutter/ephemeral/
+travel_app/web/
+
+# Dart/Flutter cache
+travel_app/**/*.g.dart
+travel_app/**/*.freezed.dart
+
+# ── VS Code ───────────────────────────────────────────────────────
+.vscode/settings.json
+.vscode/launch.json
+.vscode/*.code-workspace
+
+# Keep these VS Code files (useful for team)
+!.vscode/extensions.json
+
+# ── OS files ──────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+travel_app/assets/videos/
+
+# Exception — Flutter dart models are NOT ignored
+!travel_app/lib/models/
+!travel_app/lib/models/*.dart
