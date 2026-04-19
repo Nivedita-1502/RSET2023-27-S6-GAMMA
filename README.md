@@ -1,4 +1,3 @@
-# RSET2023-27-S6-GAMMA
 # Group 16 - AI Based Interview Question Generator
 
 ## 📌 Project Description
