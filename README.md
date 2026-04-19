@@ -60,18 +60,20 @@ This project addresses these limitations by developing an AI-based system that:
 
 ## 📂 Project Structure
 
+```
 AI_Interview_Project/
 │
 ├── backend/
-│   ├── data/                # Dataset for interview questions
-│   ├── frontend/            # Frontend files 
-│   ├── routes/              # API route handlers
-│   ├── utils/               # Utility functions
-│   ├── app_Version3.py      # Main backend application
-│   ├── config_Version3.py   # Configuration settings
-│   ├── generate_eval_dataset_with_llama.py  # Dataset generation script
-│   ├── train_new_dataset_models.py          # Model training script
-│   └── requirements_Version3.txt            # Dependencies
+│   ├── data/                                 # Dataset for interview questions
+│   ├── frontend/                             # Frontend files
+│   ├── routes/                               # API route handlers
+│   ├── utils/                                # Utility functions
+│   ├── app_Version3.py                       # Main backend application
+│   ├── config_Version3.py                    # Configuration settings
+│   ├── generate_eval_dataset_with_llama.py   # Dataset generation script
+│   ├── train_new_dataset_models.py           # Model training script
+│   └── requirements_Version3.txt             # Dependencies
+```
 
 ---
 
