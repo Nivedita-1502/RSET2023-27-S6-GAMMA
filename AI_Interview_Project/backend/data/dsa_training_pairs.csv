@@ -1,0 +1,334 @@
+sentence1,sentence2,label
+"A basic understanding of procedure, step-by-step, problem solving as it relates to DSA.","A basic understanding of procedure, step-by-step, problem solving as it relates to DSA.",1.0
+"A basic understanding of procedure, step-by-step, problem solving as it relates to DSA.","procedure, step-by-step, problem solving, computation, instruction",0.8
+"A basic understanding of procedure, step-by-step, problem solving as it relates to DSA.","A basic understanding of procedure, step-by",0.6
+"A basic understanding of organization, data, storage as it relates to DSA.","A basic understanding of organization, data, storage as it relates to DSA.",1.0
+"A basic understanding of organization, data, storage as it relates to DSA.","organization, data, storage, container, arrangement",0.8
+"A basic understanding of organization, data, storage as it relates to DSA.",A basic understanding of organization,0.6
+"A basic understanding of complexity, growth rate, performance as it relates to DSA.","A basic understanding of complexity, growth rate, performance as it relates to DSA.",1.0
+"A basic understanding of complexity, growth rate, performance as it relates to DSA.","complexity, growth rate, performance, analysis, asymptotic",0.8
+"A basic understanding of complexity, growth rate, performance as it relates to DSA.","A basic understanding of complexity, grow",0.6
+"A basic understanding of execution time, operations, input size as it relates to DSA.","A basic understanding of execution time, operations, input size as it relates to DSA.",1.0
+"A basic understanding of execution time, operations, input size as it relates to DSA.","execution time, operations, input size, measurement, efficiency",0.8
+"A basic understanding of execution time, operations, input size as it relates to DSA.","A basic understanding of execution time, o",0.6
+"A basic understanding of memory usage, storage, requirement as it relates to DSA.","A basic understanding of memory usage, storage, requirement as it relates to DSA.",1.0
+"A basic understanding of memory usage, storage, requirement as it relates to DSA.","memory usage, storage, requirement, measurement, efficiency",0.8
+"A basic understanding of memory usage, storage, requirement as it relates to DSA.","A basic understanding of memory usage, s",0.6
+"A basic understanding of sequential, element-by-element, comparison as it relates to DSA.","A basic understanding of sequential, element-by-element, comparison as it relates to DSA.",1.0
+"A basic understanding of sequential, element-by-element, comparison as it relates to DSA.","sequential, element-by-element, comparison, simple, O(n)",0.8
+"A basic understanding of sequential, element-by-element, comparison as it relates to DSA.","A basic understanding of sequential, element",0.6
+"A basic understanding of divide-and-conquer, sorted, half-division as it relates to DSA.","A basic understanding of divide-and-conquer, sorted, half-division as it relates to DSA.",1.0
+"A basic understanding of divide-and-conquer, sorted, half-division as it relates to DSA.","divide-and-conquer, sorted, half-division, logarithmic, O(log n)",0.8
+"A basic understanding of divide-and-conquer, sorted, half-division as it relates to DSA.","A basic understanding of divide-and-conquer,",0.6
+"A basic understanding of contiguous, storage, indexed as it relates to DSA.","A basic understanding of contiguous, storage, indexed as it relates to DSA.",1.0
+"A basic understanding of contiguous, storage, indexed as it relates to DSA.","contiguous, storage, indexed, collection, elements",0.8
+"A basic understanding of contiguous, storage, indexed as it relates to DSA.","A basic understanding of contiguous,",0.6
+"A basic understanding of pointer-based, nodes, dynamic as it relates to DSA.","A basic understanding of pointer-based, nodes, dynamic as it relates to DSA.",1.0
+"A basic understanding of pointer-based, nodes, dynamic as it relates to DSA.","pointer-based, nodes, dynamic, non-contiguous, structure",0.8
+"A basic understanding of pointer-based, nodes, dynamic as it relates to DSA.",A basic understanding of pointer-based,0.6
+"A basic understanding of LIFO, last-in-first-out, push as it relates to DSA.","A basic understanding of LIFO, last-in-first-out, push as it relates to DSA.",1.0
+"A basic understanding of LIFO, last-in-first-out, push as it relates to DSA.","LIFO, last-in-first-out, push, pop, operation",0.8
+"A basic understanding of LIFO, last-in-first-out, push as it relates to DSA.","A basic understanding of LIFO, last-in",0.6
+"A basic understanding of FIFO, first-in-first-out, enqueue as it relates to DSA.","A basic understanding of FIFO, first-in-first-out, enqueue as it relates to DSA.",1.0
+"A basic understanding of FIFO, first-in-first-out, enqueue as it relates to DSA.","FIFO, first-in-first-out, enqueue, dequeue, operation",0.8
+"A basic understanding of FIFO, first-in-first-out, enqueue as it relates to DSA.","A basic understanding of FIFO, first-in-",0.6
+"A basic understanding of hierarchical, root, nodes as it relates to DSA.","A basic understanding of hierarchical, root, nodes as it relates to DSA.",1.0
+"A basic understanding of hierarchical, root, nodes as it relates to DSA.","hierarchical, root, nodes, edges, structure",0.8
+"A basic understanding of hierarchical, root, nodes as it relates to DSA.",A basic understanding of hierarchica,0.6
+"A basic understanding of two children, maximum, node as it relates to DSA.","A basic understanding of two children, maximum, node as it relates to DSA.",1.0
+"A basic understanding of two children, maximum, node as it relates to DSA.","two children, maximum, node, branches, structure",0.8
+"A basic understanding of two children, maximum, node as it relates to DSA.",A basic understanding of two children,0.6
+"A basic understanding of binary search tree, ordered, left smaller as it relates to DSA.","A basic understanding of binary search tree, ordered, left smaller as it relates to DSA.",1.0
+"A basic understanding of binary search tree, ordered, left smaller as it relates to DSA.","binary search tree, ordered, left smaller, right larger, sorted",0.8
+"A basic understanding of binary search tree, ordered, left smaller as it relates to DSA.","A basic understanding of binary search tree,",0.6
+"A basic understanding of hash function, key-value, lookup as it relates to DSA.","A basic understanding of hash function, key-value, lookup as it relates to DSA.",1.0
+"A basic understanding of hash function, key-value, lookup as it relates to DSA.","hash function, key-value, lookup, table, storage",0.8
+"A basic understanding of hash function, key-value, lookup as it relates to DSA.","A basic understanding of hash function,",0.6
+"A comprehensive explanation of hash conflict, multiple keys, address, including their application and importance in DSA.","A comprehensive explanation of hash conflict, multiple keys, address, including their application and importance in DSA.",1.0
+"A comprehensive explanation of hash conflict, multiple keys, address, including their application and importance in DSA.","hash conflict, multiple keys, address, resolution, problem",0.8
+"A comprehensive explanation of hash conflict, multiple keys, address, including their application and importance in DSA.","A comprehensive explanation of hash conflict, multiple keys,",0.6
+"A comprehensive explanation of vertices, edges, nodes, including their application and importance in DSA.","A comprehensive explanation of vertices, edges, nodes, including their application and importance in DSA.",1.0
+"A comprehensive explanation of vertices, edges, nodes, including their application and importance in DSA.","vertices, edges, nodes, connections, relationships",0.8
+"A comprehensive explanation of vertices, edges, nodes, including their application and importance in DSA.","A comprehensive explanation of vertices, edges, node",0.6
+"A comprehensive explanation of breadth-first, level-order, queue, including their application and importance in DSA.","A comprehensive explanation of breadth-first, level-order, queue, including their application and importance in DSA.",1.0
+"A comprehensive explanation of breadth-first, level-order, queue, including their application and importance in DSA.","breadth-first, level-order, queue, traversal, exploration",0.8
+"A comprehensive explanation of breadth-first, level-order, queue, including their application and importance in DSA.","A comprehensive explanation of breadth-first, level-order,",0.6
+"A comprehensive explanation of depth-first, recursion, stack, including their application and importance in DSA.","A comprehensive explanation of depth-first, recursion, stack, including their application and importance in DSA.",1.0
+"A comprehensive explanation of depth-first, recursion, stack, including their application and importance in DSA.","depth-first, recursion, stack, traversal, deep",0.8
+"A comprehensive explanation of depth-first, recursion, stack, including their application and importance in DSA.","A comprehensive explanation of depth-first, recursion, s",0.6
+"A comprehensive explanation of arrangement, order, sequence, including their application and importance in DSA.","A comprehensive explanation of arrangement, order, sequence, including their application and importance in DSA.",1.0
+"A comprehensive explanation of arrangement, order, sequence, including their application and importance in DSA.","arrangement, order, sequence, organization, elements",0.8
+"A comprehensive explanation of arrangement, order, sequence, including their application and importance in DSA.","A comprehensive explanation of arrangement, order, sequ",0.6
+"A comprehensive explanation of comparison, adjacent, swap, including their application and importance in DSA.","A comprehensive explanation of comparison, adjacent, swap, including their application and importance in DSA.",1.0
+"A comprehensive explanation of comparison, adjacent, swap, including their application and importance in DSA.","comparison, adjacent, swap, simple, O(n²)",0.8
+"A comprehensive explanation of comparison, adjacent, swap, including their application and importance in DSA.","A comprehensive explanation of comparison, adjacent, s",0.6
+"A comprehensive explanation of divide-conquer, merge, stable, including their application and importance in DSA.","A comprehensive explanation of divide-conquer, merge, stable, including their application and importance in DSA.",1.0
+"A comprehensive explanation of divide-conquer, merge, stable, including their application and importance in DSA.","divide-conquer, merge, stable, O(n log n), recursive",0.8
+"A comprehensive explanation of divide-conquer, merge, stable, including their application and importance in DSA.","A comprehensive explanation of divide-conquer, merge, st",0.6
+"A comprehensive explanation of partition, pivot, in-place, including their application and importance in DSA.","A comprehensive explanation of partition, pivot, in-place, including their application and importance in DSA.",1.0
+"A comprehensive explanation of partition, pivot, in-place, including their application and importance in DSA.","partition, pivot, in-place, average O(n log n), recursive",0.8
+"A comprehensive explanation of partition, pivot, in-place, including their application and importance in DSA.","A comprehensive explanation of partition, pivot, in-pl",0.6
+"A comprehensive explanation of tree-based, priority, min-heap, including their application and importance in DSA.","A comprehensive explanation of tree-based, priority, min-heap, including their application and importance in DSA.",1.0
+"A comprehensive explanation of tree-based, priority, min-heap, including their application and importance in DSA.","tree-based, priority, min-heap, max-heap, property",0.8
+"A comprehensive explanation of tree-based, priority, min-heap, including their application and importance in DSA.","A comprehensive explanation of tree-based, priority, min",0.6
+"A comprehensive explanation of prefix tree, string, storage, including their application and importance in DSA.","A comprehensive explanation of prefix tree, string, storage, including their application and importance in DSA.",1.0
+"A comprehensive explanation of prefix tree, string, storage, including their application and importance in DSA.","prefix tree, string, storage, retrieval, structure",0.8
+"A comprehensive explanation of prefix tree, string, storage, including their application and importance in DSA.","A comprehensive explanation of prefix tree, string, sto",0.6
+"A comprehensive explanation of subproblems, memoization, overlapping, including their application and importance in DSA.","A comprehensive explanation of subproblems, memoization, overlapping, including their application and importance in DSA.",1.0
+"A comprehensive explanation of subproblems, memoization, overlapping, including their application and importance in DSA.","subproblems, memoization, overlapping, optimization, solution",0.8
+"A comprehensive explanation of subproblems, memoization, overlapping, including their application and importance in DSA.","A comprehensive explanation of subproblems, memoization, ove",0.6
+"A comprehensive explanation of shortest path, greedy, non-negative, including their application and importance in DSA.","A comprehensive explanation of shortest path, greedy, non-negative, including their application and importance in DSA.",1.0
+"A comprehensive explanation of shortest path, greedy, non-negative, including their application and importance in DSA.","shortest path, greedy, non-negative, source, weighted",0.8
+"A comprehensive explanation of shortest path, greedy, non-negative, including their application and importance in DSA.","A comprehensive explanation of shortest path, greedy, non-n",0.6
+"A comprehensive explanation of directed, acyclic, graph, including their application and importance in DSA.","A comprehensive explanation of directed, acyclic, graph, including their application and importance in DSA.",1.0
+"A comprehensive explanation of directed, acyclic, graph, including their application and importance in DSA.","directed, acyclic, graph, ordering, precedence",0.8
+"A comprehensive explanation of directed, acyclic, graph, including their application and importance in DSA.","A comprehensive explanation of directed, acyclic, gra",0.6
+"A comprehensive explanation of MST, vertices, minimum weight, including their application and importance in DSA.","A comprehensive explanation of MST, vertices, minimum weight, including their application and importance in DSA.",1.0
+"A comprehensive explanation of MST, vertices, minimum weight, including their application and importance in DSA.","MST, vertices, minimum weight, connected, tree",0.8
+"A comprehensive explanation of MST, vertices, minimum weight, including their application and importance in DSA.","A comprehensive explanation of MST, vertices, minimum we",0.6
+"A comprehensive explanation of balanced, rotation, height, including their application and importance in DSA.","A comprehensive explanation of balanced, rotation, height, including their application and importance in DSA.",1.0
+"A comprehensive explanation of balanced, rotation, height, including their application and importance in DSA.","balanced, rotation, height, binary search, self-balancing",0.8
+"A comprehensive explanation of balanced, rotation, height, including their application and importance in DSA.","A comprehensive explanation of balanced, rotation, hei",0.6
+"An advanced understanding of color properties, balanced, self-balancing, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of color properties, balanced, self-balancing, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of color properties, balanced, self-balancing, including implementation details, trade-offs, and real-world use cases in DSA.","color properties, balanced, self-balancing, rotation, complexity",0.8
+"An advanced understanding of color properties, balanced, self-balancing, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of color properties, balanced, self-balancing, in",0.6
+"An advanced understanding of function, calls itself, base case, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of function, calls itself, base case, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of function, calls itself, base case, including implementation details, trade-offs, and real-world use cases in DSA.","function, calls itself, base case, recursive case, solution",0.8
+"An advanced understanding of function, calls itself, base case, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of function, calls itself, base case, includi",0.6
+"An advanced understanding of try, fail, explore, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of try, fail, explore, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of try, fail, explore, including implementation details, trade-offs, and real-world use cases in DSA.","try, fail, explore, constraint, satisfaction",0.8
+"An advanced understanding of try, fail, explore, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of try, fail, explore, including impl",0.6
+"An advanced understanding of locally optimal, choice, simple, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of locally optimal, choice, simple, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of locally optimal, choice, simple, including implementation details, trade-offs, and real-world use cases in DSA.","locally optimal, choice, simple, efficient, heuristic",0.8
+"An advanced understanding of locally optimal, choice, simple, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of locally optimal, choice, simple, includin",0.6
+"An advanced understanding of average cost, sequence, operations, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of average cost, sequence, operations, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of average cost, sequence, operations, including implementation details, trade-offs, and real-world use cases in DSA.","average cost, sequence, operations, complexity, analysis",0.8
+"An advanced understanding of average cost, sequence, operations, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of average cost, sequence, operations, includ",0.6
+"An advanced understanding of recurrence, divide-and-conquer, formula, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of recurrence, divide-and-conquer, formula, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of recurrence, divide-and-conquer, formula, including implementation details, trade-offs, and real-world use cases in DSA.","recurrence, divide-and-conquer, formula, complexity, solution",0.8
+"An advanced understanding of recurrence, divide-and-conquer, formula, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of recurrence, divide-and-conquer, formula, incl",0.6
+"An advanced understanding of hard problem, verifiable, polynomial, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of hard problem, verifiable, polynomial, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of hard problem, verifiable, polynomial, including implementation details, trade-offs, and real-world use cases in DSA.","hard problem, verifiable, polynomial, reduction, class",0.8
+"An advanced understanding of hard problem, verifiable, polynomial, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of hard problem, verifiable, polynomial, inclu",0.6
+"An advanced understanding of string, transformation, minimum operations, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of string, transformation, minimum operations, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of string, transformation, minimum operations, including implementation details, trade-offs, and real-world use cases in DSA.","string, transformation, minimum operations, similarity, metric",0.8
+"An advanced understanding of string, transformation, minimum operations, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of string, transformation, minimum operations, in",0.6
+"An advanced understanding of shortest path, negative weights, dynamic programming, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of shortest path, negative weights, dynamic programming, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of shortest path, negative weights, dynamic programming, including implementation details, trade-offs, and real-world use cases in DSA.","shortest path, negative weights, dynamic programming, algorithm",0.8
+"An advanced understanding of shortest path, negative weights, dynamic programming, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of shortest path, negative weights, dynamic programmin",0.6
+"An advanced understanding of all-pairs, shortest path, O(n³), including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of all-pairs, shortest path, O(n³), including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of all-pairs, shortest path, O(n³), including implementation details, trade-offs, and real-world use cases in DSA.","all-pairs, shortest path, O(n³), dynamic programming, algorithm",0.8
+"An advanced understanding of all-pairs, shortest path, O(n³), including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of all-pairs, shortest path, O(n³), includin",0.6
+"A comprehensive explanation of shortest path, single-source, non-negative, including their application and importance in DSA.","A comprehensive explanation of shortest path, single-source, non-negative, including their application and importance in DSA.",1.0
+"A comprehensive explanation of shortest path, single-source, non-negative, including their application and importance in DSA.","shortest path, single-source, non-negative, greedy, weighted",0.8
+"A comprehensive explanation of shortest path, single-source, non-negative, including their application and importance in DSA.","A comprehensive explanation of shortest path, single-source, n",0.6
+"A basic understanding of shortest path, negative weights, all-pairs as it relates to DSA.","A basic understanding of shortest path, negative weights, all-pairs as it relates to DSA.",1.0
+"A basic understanding of shortest path, negative weights, all-pairs as it relates to DSA.","shortest path, negative weights, all-pairs, dynamic programming",0.8
+"A basic understanding of shortest path, negative weights, all-pairs as it relates to DSA.","A basic understanding of shortest path, nega",0.6
+"A comprehensive explanation of MST, minimum spanning tree, union-find, including their application and importance in DSA.","A comprehensive explanation of MST, minimum spanning tree, union-find, including their application and importance in DSA.",1.0
+"A comprehensive explanation of MST, minimum spanning tree, union-find, including their application and importance in DSA.","MST, minimum spanning tree, union-find, edges, weight",0.8
+"A comprehensive explanation of MST, minimum spanning tree, union-find, including their application and importance in DSA.","A comprehensive explanation of MST, minimum spanning tree, u",0.6
+"An advanced understanding of MST, minimum spanning tree, growing, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of MST, minimum spanning tree, growing, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of MST, minimum spanning tree, growing, including implementation details, trade-offs, and real-world use cases in DSA.","MST, minimum spanning tree, growing, vertices, greedy",0.8
+"An advanced understanding of MST, minimum spanning tree, growing, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of MST, minimum spanning tree, growing, includ",0.6
+"A basic understanding of directed acyclic graph, ordering, precedence as it relates to DSA.","A basic understanding of directed acyclic graph, ordering, precedence as it relates to DSA.",1.0
+"A basic understanding of directed acyclic graph, ordering, precedence as it relates to DSA.","directed acyclic graph, ordering, precedence, dependencies",0.8
+"A basic understanding of directed acyclic graph, ordering, precedence as it relates to DSA.",A basic understanding of directed acyclic gra,0.6
+"A basic understanding of topological sort, indegree, queue as it relates to DSA.","A basic understanding of topological sort, indegree, queue as it relates to DSA.",1.0
+"A basic understanding of topological sort, indegree, queue as it relates to DSA.","topological sort, indegree, queue, linear, DAG",0.8
+"A basic understanding of topological sort, indegree, queue as it relates to DSA.",A basic understanding of topological sor,0.6
+"An advanced understanding of heuristic, informed search, pathfinding, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of heuristic, informed search, pathfinding, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of heuristic, informed search, pathfinding, including implementation details, trade-offs, and real-world use cases in DSA.","heuristic, informed search, pathfinding, estimate, optimal",0.8
+"An advanced understanding of heuristic, informed search, pathfinding, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of heuristic, informed search, pathfinding, incl",0.6
+"A comprehensive explanation of pattern matching, string, efficient, including their application and importance in DSA.","A comprehensive explanation of pattern matching, string, efficient, including their application and importance in DSA.",1.0
+"A comprehensive explanation of pattern matching, string, efficient, including their application and importance in DSA.","pattern matching, string, efficient, suffix, search",0.8
+"A comprehensive explanation of pattern matching, string, efficient, including their application and importance in DSA.","A comprehensive explanation of pattern matching, string, ef",0.6
+"A comprehensive explanation of prefix tree, string storage, efficiency, including their application and importance in DSA.","A comprehensive explanation of prefix tree, string storage, efficiency, including their application and importance in DSA.",1.0
+"A comprehensive explanation of prefix tree, string storage, efficiency, including their application and importance in DSA.","prefix tree, string storage, efficiency, retrieval, shared",0.8
+"A comprehensive explanation of prefix tree, string storage, efficiency, including their application and importance in DSA.","A comprehensive explanation of prefix tree, string storage, e",0.6
+"A comprehensive explanation of range query, tree, efficient, including their application and importance in DSA.","A comprehensive explanation of range query, tree, efficient, including their application and importance in DSA.",1.0
+"A comprehensive explanation of range query, tree, efficient, including their application and importance in DSA.","range query, tree, efficient, update, range sum",0.8
+"A comprehensive explanation of range query, tree, efficient, including their application and importance in DSA.","A comprehensive explanation of range query, tree, effic",0.6
+"A basic understanding of binary indexed tree, range query, prefix sum as it relates to DSA.","A basic understanding of binary indexed tree, range query, prefix sum as it relates to DSA.",1.0
+"A basic understanding of binary indexed tree, range query, prefix sum as it relates to DSA.","binary indexed tree, range query, prefix sum, efficient, update",0.8
+"A basic understanding of binary indexed tree, range query, prefix sum as it relates to DSA.","A basic understanding of binary indexed tree,",0.6
+"A basic understanding of disjoint set, union, find as it relates to DSA.","A basic understanding of disjoint set, union, find as it relates to DSA.",1.0
+"A basic understanding of disjoint set, union, find as it relates to DSA.","disjoint set, union, find, path compression, rank",0.8
+"A basic understanding of disjoint set, union, find as it relates to DSA.",A basic understanding of disjoint se,0.6
+"A comprehensive explanation of bipartite graph, matching, maximum, including their application and importance in DSA.","A comprehensive explanation of bipartite graph, matching, maximum, including their application and importance in DSA.",1.0
+"A comprehensive explanation of bipartite graph, matching, maximum, including their application and importance in DSA.","bipartite graph, matching, maximum, assignment, network",0.8
+"A comprehensive explanation of bipartite graph, matching, maximum, including their application and importance in DSA.","A comprehensive explanation of bipartite graph, matching,",0.6
+"A basic understanding of preserves order, equal elements, merge sort as it relates to DSA.","A basic understanding of preserves order, equal elements, merge sort as it relates to DSA.",1.0
+"A basic understanding of preserves order, equal elements, merge sort as it relates to DSA.","preserves order, equal elements, merge sort, stability, comparison",0.8
+"A basic understanding of preserves order, equal elements, merge sort as it relates to DSA.","A basic understanding of preserves order, equ",0.6
+"A basic understanding of divide, conquer, merge as it relates to DSA.","A basic understanding of divide, conquer, merge as it relates to DSA.",1.0
+"A basic understanding of divide, conquer, merge as it relates to DSA.","divide, conquer, merge, subproblems, solution",0.8
+"A basic understanding of divide, conquer, merge as it relates to DSA.","A basic understanding of divide, c",0.6
+"An advanced understanding of dynamic programming, caching, subproblems, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of dynamic programming, caching, subproblems, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of dynamic programming, caching, subproblems, including implementation details, trade-offs, and real-world use cases in DSA.","dynamic programming, caching, subproblems, optimization, store",0.8
+"An advanced understanding of dynamic programming, caching, subproblems, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of dynamic programming, caching, subproblems, inc",0.6
+"A basic understanding of dynamic programming, bottom-up, array as it relates to DSA.","A basic understanding of dynamic programming, bottom-up, array as it relates to DSA.",1.0
+"A basic understanding of dynamic programming, bottom-up, array as it relates to DSA.","dynamic programming, bottom-up, array, build, solution",0.8
+"A basic understanding of dynamic programming, bottom-up, array as it relates to DSA.",A basic understanding of dynamic programmi,0.6
+"A basic understanding of optimal, greedy, local choice as it relates to DSA.","A basic understanding of optimal, greedy, local choice as it relates to DSA.",1.0
+"A basic understanding of optimal, greedy, local choice as it relates to DSA.","optimal, greedy, local choice, global, algorithm",0.8
+"A basic understanding of optimal, greedy, local choice as it relates to DSA.","A basic understanding of optimal, gree",0.6
+"An advanced understanding of subproblems, optimal, original, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of subproblems, optimal, original, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of subproblems, optimal, original, including implementation details, trade-offs, and real-world use cases in DSA.","subproblems, optimal, original, dynamic programming",0.8
+"An advanced understanding of subproblems, optimal, original, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of subproblems, optimal, original, includin",0.6
+"A basic understanding of P, complexity, solvable as it relates to DSA.","A basic understanding of P, complexity, solvable as it relates to DSA.",1.0
+"A basic understanding of P, complexity, solvable as it relates to DSA.","P, complexity, solvable, algorithm, feasible",0.8
+"A basic understanding of P, complexity, solvable as it relates to DSA.","A basic understanding of P, complex",0.6
+"A comprehensive explanation of NP, hard, complexity, including their application and importance in DSA.","A comprehensive explanation of NP, hard, complexity, including their application and importance in DSA.",1.0
+"A comprehensive explanation of NP, hard, complexity, including their application and importance in DSA.","NP, hard, complexity, feasible, algorithm",0.8
+"A comprehensive explanation of NP, hard, complexity, including their application and importance in DSA.","A comprehensive explanation of NP, hard, complexity",0.6
+"A basic understanding of NP-hard, approximate, solution as it relates to DSA.","A basic understanding of NP-hard, approximate, solution as it relates to DSA.",1.0
+"A basic understanding of NP-hard, approximate, solution as it relates to DSA.","NP-hard, approximate, solution, close, optimal",0.8
+"A basic understanding of NP-hard, approximate, solution as it relates to DSA.","A basic understanding of NP-hard, appr",0.6
+"A basic understanding of probability, random, Las Vegas as it relates to DSA.","A basic understanding of probability, random, Las Vegas as it relates to DSA.",1.0
+"A basic understanding of probability, random, Las Vegas as it relates to DSA.","probability, random, Las Vegas, Monte Carlo, algorithm",0.8
+"A basic understanding of probability, random, Las Vegas as it relates to DSA.","A basic understanding of probability,",0.6
+"A basic understanding of distribution, resources, balanced as it relates to DSA.","A basic understanding of distribution, resources, balanced as it relates to DSA.",1.0
+"A basic understanding of distribution, resources, balanced as it relates to DSA.","distribution, resources, balanced, scheduling, parallel",0.8
+"A basic understanding of distribution, resources, balanced as it relates to DSA.","A basic understanding of distribution, r",0.6
+"A comprehensive explanation of searching, algorithm, implementation, including their application and importance in DSA.","A comprehensive explanation of searching, algorithm, implementation, including their application and importance in DSA.",1.0
+"A comprehensive explanation of searching, algorithm, implementation, including their application and importance in DSA.","searching, algorithm, implementation, optimization, design",0.8
+"A comprehensive explanation of searching, algorithm, implementation, including their application and importance in DSA.","A comprehensive explanation of searching, algorithm, implem",0.6
+"A comprehensive explanation of hashing, algorithm, implementation, including their application and importance in DSA.","A comprehensive explanation of hashing, algorithm, implementation, including their application and importance in DSA.",1.0
+"A comprehensive explanation of hashing, algorithm, implementation, including their application and importance in DSA.","hashing, algorithm, implementation, optimization, design",0.8
+"A comprehensive explanation of hashing, algorithm, implementation, including their application and importance in DSA.","A comprehensive explanation of hashing, algorithm, impleme",0.6
+"An advanced understanding of sorting, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of sorting, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of sorting, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in DSA.","sorting, algorithm, implementation, optimization, design",0.8
+"An advanced understanding of sorting, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of sorting, algorithm, implementation, includ",0.6
+"An advanced understanding of graphs, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of graphs, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of graphs, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in DSA.","graphs, algorithm, implementation, optimization, design",0.8
+"An advanced understanding of graphs, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of graphs, algorithm, implementation, includi",0.6
+"A comprehensive explanation of dynamic programming, algorithm, implementation, including their application and importance in DSA.","A comprehensive explanation of dynamic programming, algorithm, implementation, including their application and importance in DSA.",1.0
+"A comprehensive explanation of dynamic programming, algorithm, implementation, including their application and importance in DSA.","dynamic programming, algorithm, implementation, optimization, design",0.8
+"A comprehensive explanation of dynamic programming, algorithm, implementation, including their application and importance in DSA.","A comprehensive explanation of dynamic programming, algorithm, i",0.6
+"A basic understanding of trees, algorithm, implementation as it relates to DSA.","A basic understanding of trees, algorithm, implementation as it relates to DSA.",1.0
+"A basic understanding of trees, algorithm, implementation as it relates to DSA.","trees, algorithm, implementation, optimization, design",0.8
+"A basic understanding of trees, algorithm, implementation as it relates to DSA.","A basic understanding of trees, algorit",0.6
+"An advanced understanding of complexity, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of complexity, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of complexity, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in DSA.","complexity, algorithm, implementation, optimization, design",0.8
+"An advanced understanding of complexity, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of complexity, algorithm, implementation, inclu",0.6
+"A basic understanding of suffix, array, string as it relates to DSA.","A basic understanding of suffix, array, string as it relates to DSA.",1.0
+"A basic understanding of suffix, array, string as it relates to DSA.","suffix, array, string, pattern matching, efficient",0.8
+"A basic understanding of suffix, array, string as it relates to DSA.","A basic understanding of suffix, a",0.6
+"An advanced understanding of pattern matching, string, prefix, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of pattern matching, string, prefix, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of pattern matching, string, prefix, including implementation details, trade-offs, and real-world use cases in DSA.","pattern matching, string, prefix, failure function, efficient",0.8
+"An advanced understanding of pattern matching, string, prefix, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of pattern matching, string, prefix, includi",0.6
+"An advanced understanding of pattern matching, string, jump, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of pattern matching, string, jump, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of pattern matching, string, jump, including implementation details, trade-offs, and real-world use cases in DSA.","pattern matching, string, jump, efficient, comparison",0.8
+"An advanced understanding of pattern matching, string, jump, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of pattern matching, string, jump, includin",0.6
+"A basic understanding of rolling hash, pattern matching, string as it relates to DSA.","A basic understanding of rolling hash, pattern matching, string as it relates to DSA.",1.0
+"A basic understanding of rolling hash, pattern matching, string as it relates to DSA.","rolling hash, pattern matching, string, hash",0.8
+"A basic understanding of rolling hash, pattern matching, string as it relates to DSA.","A basic understanding of rolling hash, pat",0.6
+"A comprehensive explanation of multiple patterns, string matching, automaton, including their application and importance in DSA.","A comprehensive explanation of multiple patterns, string matching, automaton, including their application and importance in DSA.",1.0
+"A comprehensive explanation of multiple patterns, string matching, automaton, including their application and importance in DSA.","multiple patterns, string matching, automaton, efficient",0.8
+"A comprehensive explanation of multiple patterns, string matching, automaton, including their application and importance in DSA.","A comprehensive explanation of multiple patterns, string matchin",0.6
+"A comprehensive explanation of palindrome, string, center expansion, including their application and importance in DSA.","A comprehensive explanation of palindrome, string, center expansion, including their application and importance in DSA.",1.0
+"A comprehensive explanation of palindrome, string, center expansion, including their application and importance in DSA.","palindrome, string, center expansion, linear, efficient",0.8
+"A comprehensive explanation of palindrome, string, center expansion, including their application and importance in DSA.","A comprehensive explanation of palindrome, string, center e",0.6
+"A comprehensive explanation of string matching, pattern, linear, including their application and importance in DSA.","A comprehensive explanation of string matching, pattern, linear, including their application and importance in DSA.",1.0
+"A comprehensive explanation of string matching, pattern, linear, including their application and importance in DSA.","string matching, pattern, linear, array, efficient",0.8
+"A comprehensive explanation of string matching, pattern, linear, including their application and importance in DSA.","A comprehensive explanation of string matching, pattern,",0.6
+"An advanced understanding of matrix multiplication, divide-conquer, O(n^2.81), including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of matrix multiplication, divide-conquer, O(n^2.81), including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of matrix multiplication, divide-conquer, O(n^2.81), including implementation details, trade-offs, and real-world use cases in DSA.","matrix multiplication, divide-conquer, O(n^2.81), fast",0.8
+"An advanced understanding of matrix multiplication, divide-conquer, O(n^2.81), including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of matrix multiplication, divide-conquer, O(n^2.81),",0.6
+"A basic understanding of fast Fourier transform, polynomial, multiplication as it relates to DSA.","A basic understanding of fast Fourier transform, polynomial, multiplication as it relates to DSA.",1.0
+"A basic understanding of fast Fourier transform, polynomial, multiplication as it relates to DSA.","fast Fourier transform, polynomial, multiplication, efficient, transform",0.8
+"A basic understanding of fast Fourier transform, polynomial, multiplication as it relates to DSA.","A basic understanding of fast Fourier transform,",0.6
+"A basic understanding of polynomial, multiplication, operation as it relates to DSA.","A basic understanding of polynomial, multiplication, operation as it relates to DSA.",1.0
+"A basic understanding of polynomial, multiplication, operation as it relates to DSA.","polynomial, multiplication, operation, FFT, efficient",0.8
+"A basic understanding of polynomial, multiplication, operation as it relates to DSA.","A basic understanding of polynomial, multi",0.6
+"An advanced understanding of matching, bipartite, augmenting path, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of matching, bipartite, augmenting path, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of matching, bipartite, augmenting path, including implementation details, trade-offs, and real-world use cases in DSA.","matching, bipartite, augmenting path, maximum, graph",0.8
+"An advanced understanding of matching, bipartite, augmenting path, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of matching, bipartite, augmenting path, inclu",0.6
+"A comprehensive explanation of assignment problem, bipartite matching, optimal, including their application and importance in DSA.","A comprehensive explanation of assignment problem, bipartite matching, optimal, including their application and importance in DSA.",1.0
+"A comprehensive explanation of assignment problem, bipartite matching, optimal, including their application and importance in DSA.","assignment problem, bipartite matching, optimal, weight",0.8
+"A comprehensive explanation of assignment problem, bipartite matching, optimal, including their application and importance in DSA.","A comprehensive explanation of assignment problem, bipartite matc",0.6
+"A basic understanding of stable, matching, preferences as it relates to DSA.","A basic understanding of stable, matching, preferences as it relates to DSA.",1.0
+"A basic understanding of stable, matching, preferences as it relates to DSA.","stable, matching, preferences, algorithm, gale-shapley",0.8
+"A basic understanding of stable, matching, preferences as it relates to DSA.","A basic understanding of stable, match",0.6
+"An advanced understanding of flow network, maximum, capacity, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of flow network, maximum, capacity, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of flow network, maximum, capacity, including implementation details, trade-offs, and real-world use cases in DSA.","flow network, maximum, capacity, source, sink, ford-fulkerson",0.8
+"An advanced understanding of flow network, maximum, capacity, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of flow network, maximum, capacity, includin",0.6
+"A comprehensive explanation of minimum cut, flow network, partition, including their application and importance in DSA.","A comprehensive explanation of minimum cut, flow network, partition, including their application and importance in DSA.",1.0
+"A comprehensive explanation of minimum cut, flow network, partition, including their application and importance in DSA.","minimum cut, flow network, partition, capacity, min-cut-max-flow",0.8
+"A comprehensive explanation of minimum cut, flow network, partition, including their application and importance in DSA.","A comprehensive explanation of minimum cut, flow network, p",0.6
+"A basic understanding of minimum cost, flow network, optimization as it relates to DSA.","A basic understanding of minimum cost, flow network, optimization as it relates to DSA.",1.0
+"A basic understanding of minimum cost, flow network, optimization as it relates to DSA.","minimum cost, flow network, optimization, cost, flow",0.8
+"A basic understanding of minimum cost, flow network, optimization as it relates to DSA.","A basic understanding of minimum cost, flow",0.6
+"A basic understanding of optimization, linear constraints, objective as it relates to DSA.","A basic understanding of optimization, linear constraints, objective as it relates to DSA.",1.0
+"A basic understanding of optimization, linear constraints, objective as it relates to DSA.","optimization, linear constraints, objective, feasible, region",0.8
+"A basic understanding of optimization, linear constraints, objective as it relates to DSA.","A basic understanding of optimization, linear",0.6
+"A basic understanding of linear programming, algorithm, optimal as it relates to DSA.","A basic understanding of linear programming, algorithm, optimal as it relates to DSA.",1.0
+"A basic understanding of linear programming, algorithm, optimal as it relates to DSA.","linear programming, algorithm, optimal, vertices, solution",0.8
+"A basic understanding of linear programming, algorithm, optimal as it relates to DSA.",A basic understanding of linear programmin,0.6
+"A basic understanding of geometry, points, convex as it relates to DSA.","A basic understanding of geometry, points, convex as it relates to DSA.",1.0
+"A basic understanding of geometry, points, convex as it relates to DSA.","geometry, points, convex, boundary, algorithm",0.8
+"A basic understanding of geometry, points, convex as it relates to DSA.","A basic understanding of geometry,",0.6
+"A comprehensive explanation of convex hull, algorithm, sort, including their application and importance in DSA.","A comprehensive explanation of convex hull, algorithm, sort, including their application and importance in DSA.",1.0
+"A comprehensive explanation of convex hull, algorithm, sort, including their application and importance in DSA.","convex hull, algorithm, sort, stack, efficient",0.8
+"A comprehensive explanation of convex hull, algorithm, sort, including their application and importance in DSA.","A comprehensive explanation of convex hull, algorithm,",0.6
+"A comprehensive explanation of P, NP, NP-hard, including their application and importance in DSA.","A comprehensive explanation of P, NP, NP-hard, including their application and importance in DSA.",1.0
+"A comprehensive explanation of P, NP, NP-hard, including their application and importance in DSA.","P, NP, NP-hard, NP-complete, reduction",0.8
+"A comprehensive explanation of P, NP, NP-hard, including their application and importance in DSA.","A comprehensive explanation of P, NP, NP-hard, i",0.6
+"An advanced understanding of computation, model, algorithm, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of computation, model, algorithm, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of computation, model, algorithm, including implementation details, trade-offs, and real-world use cases in DSA.","computation, model, algorithm, decidable, complexity",0.8
+"An advanced understanding of computation, model, algorithm, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of computation, model, algorithm, including",0.6
+"An advanced understanding of computability, equivalence, algorithms, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of computability, equivalence, algorithms, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of computability, equivalence, algorithms, including implementation details, trade-offs, and real-world use cases in DSA.","computability, equivalence, algorithms, thesis",0.8
+"An advanced understanding of computability, equivalence, algorithms, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of computability, equivalence, algorithms, incl",0.6
+"A basic understanding of byte order, endianness, CPU as it relates to DSA.","A basic understanding of byte order, endianness, CPU as it relates to DSA.",1.0
+"A basic understanding of byte order, endianness, CPU as it relates to DSA.","byte order, endianness, CPU, representation",0.8
+"A basic understanding of byte order, endianness, CPU as it relates to DSA.","A basic understanding of byte order,",0.6
+"An advanced understanding of negative numbers, binary, representation, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of negative numbers, binary, representation, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of negative numbers, binary, representation, including implementation details, trade-offs, and real-world use cases in DSA.","negative numbers, binary, representation, overflow",0.8
+"An advanced understanding of negative numbers, binary, representation, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of negative numbers, binary, representation, inc",0.6
+"A basic understanding of AND, OR, XOR as it relates to DSA.","A basic understanding of AND, OR, XOR as it relates to DSA.",1.0
+"A basic understanding of AND, OR, XOR as it relates to DSA.","AND, OR, XOR, NOT, shift, bitwise",0.8
+"A basic understanding of AND, OR, XOR as it relates to DSA.","A basic understanding of AND,",0.6
+"An advanced understanding of probabilistic, membership, false positive, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of probabilistic, membership, false positive, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of probabilistic, membership, false positive, including implementation details, trade-offs, and real-world use cases in DSA.","probabilistic, membership, false positive, space-efficient",0.8
+"An advanced understanding of probabilistic, membership, false positive, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of probabilistic, membership, false positive, inc",0.6
+"An advanced understanding of approximate, statistics, stream, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of approximate, statistics, stream, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of approximate, statistics, stream, including implementation details, trade-offs, and real-world use cases in DSA.","approximate, statistics, stream, space, efficient",0.8
+"An advanced understanding of approximate, statistics, stream, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of approximate, statistics, stream, includin",0.6
+"A basic understanding of trie, prefix, tree as it relates to DSA.","A basic understanding of trie, prefix, tree as it relates to DSA.",1.0
+"A basic understanding of trie, prefix, tree as it relates to DSA.","trie, prefix, tree, string, efficient",0.8
+"A basic understanding of trie, prefix, tree as it relates to DSA.","A basic understanding of trie, p",0.6
+"A comprehensive explanation of geometry, intersection, points, including their application and importance in DSA.","A comprehensive explanation of geometry, intersection, points, including their application and importance in DSA.",1.0
+"A comprehensive explanation of geometry, intersection, points, including their application and importance in DSA.","geometry, intersection, points, algorithm",0.8
+"A comprehensive explanation of geometry, intersection, points, including their application and importance in DSA.","A comprehensive explanation of geometry, intersection, p",0.6
+"An advanced understanding of randomized skip list, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of randomized skip list, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of randomized skip list, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.","randomized skip list, algorithm, optimization, efficiency, implementation",0.8
+"An advanced understanding of randomized skip list, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of randomized skip list, algorithm, optimization, i",0.6
+"A basic understanding of treap, algorithm, optimization as it relates to DSA.","A basic understanding of treap, algorithm, optimization as it relates to DSA.",1.0
+"A basic understanding of treap, algorithm, optimization as it relates to DSA.","treap, algorithm, optimization, efficiency, implementation",0.8
+"A basic understanding of treap, algorithm, optimization as it relates to DSA.","A basic understanding of treap, algori",0.6
+"An advanced understanding of splay tree, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of splay tree, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of splay tree, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.","splay tree, algorithm, optimization, efficiency, implementation",0.8
+"An advanced understanding of splay tree, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of splay tree, algorithm, optimization, includ",0.6
+"An advanced understanding of cartesian tree, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of cartesian tree, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of cartesian tree, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.","cartesian tree, algorithm, optimization, efficiency, implementation",0.8
+"An advanced understanding of cartesian tree, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of cartesian tree, algorithm, optimization, incl",0.6
+"A basic understanding of link-cut tree, algorithm, optimization as it relates to DSA.","A basic understanding of link-cut tree, algorithm, optimization as it relates to DSA.",1.0
+"A basic understanding of link-cut tree, algorithm, optimization as it relates to DSA.","link-cut tree, algorithm, optimization, efficiency, implementation",0.8
+"A basic understanding of link-cut tree, algorithm, optimization as it relates to DSA.","A basic understanding of link-cut tree, al",0.6
+"An advanced understanding of gomory-hu tree, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of gomory-hu tree, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of gomory-hu tree, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.","gomory-hu tree, algorithm, optimization, efficiency, implementation",0.8
+"An advanced understanding of gomory-hu tree, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of gomory-hu tree, algorithm, optimization, incl",0.6
+"An advanced understanding of heavy-light decomposition, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of heavy-light decomposition, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of heavy-light decomposition, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.","heavy-light decomposition, algorithm, optimization, efficiency, implementation",0.8
+"An advanced understanding of heavy-light decomposition, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of heavy-light decomposition, algorithm, optimization",0.6
+"An advanced understanding of centroid decomposition, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of centroid decomposition, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of centroid decomposition, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.","centroid decomposition, algorithm, optimization, efficiency, implementation",0.8
+"An advanced understanding of centroid decomposition, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of centroid decomposition, algorithm, optimization,",0.6
+"A comprehensive explanation of mo's algorithm, algorithm, optimization, including their application and importance in DSA.","A comprehensive explanation of mo's algorithm, algorithm, optimization, including their application and importance in DSA.",1.0
+"A comprehensive explanation of mo's algorithm, algorithm, optimization, including their application and importance in DSA.","mo's algorithm, algorithm, optimization, efficiency, implementation",0.8
+"A comprehensive explanation of mo's algorithm, algorithm, optimization, including their application and importance in DSA.","A comprehensive explanation of mo's algorithm, algorithm, opt",0.6
+"An advanced understanding of square root decomposition, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of square root decomposition, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.",1.0
+"An advanced understanding of square root decomposition, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.","square root decomposition, algorithm, optimization, efficiency, implementation",0.8
+"An advanced understanding of square root decomposition, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in DSA.","An advanced understanding of square root decomposition, algorithm, optimization",0.6

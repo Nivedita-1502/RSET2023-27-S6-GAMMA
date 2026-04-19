@@ -1,0 +1,28 @@
+# Flask Web Framework
+Flask==3.0.0
+Flask-CORS==4.0.0
+
+# Machine Learning & NLP
+sentence-transformers==3.0.0
+torch==2.1.0
+torchvision==0.16.0
+torchaudio==2.1.0
+transformers==4.35.0
+
+# Data Processing
+pandas==2.1.0
+openpyxl==3.1.2
+numpy==1.24.3
+
+# Utilities
+scikit-learn==1.3.2
+scipy==1.11.4
+python-dotenv==1.0.0
+
+# Server
+gunicorn==21.2.0
+Werkzeug==3.0.0
+
+# Additional
+datasets==2.14.5
+requests==2.31.0

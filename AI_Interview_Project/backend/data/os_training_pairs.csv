@@ -1,0 +1,322 @@
+sentence1,sentence2,label
+"A basic understanding of system software, hardware, resource management as it relates to OS.","A basic understanding of system software, hardware, resource management as it relates to OS.",1.0
+"A basic understanding of system software, hardware, resource management as it relates to OS.","system software, hardware, resource management, interface, control",0.8
+"A basic understanding of system software, hardware, resource management as it relates to OS.","A basic understanding of system software, hard",0.6
+"A basic understanding of running program, instance, memory as it relates to OS.","A basic understanding of running program, instance, memory as it relates to OS.",1.0
+"A basic understanding of running program, instance, memory as it relates to OS.","running program, instance, memory, execution, context",0.8
+"A basic understanding of running program, instance, memory as it relates to OS.",A basic understanding of running progra,0.6
+"A basic understanding of lightweight process, execution, concurrent as it relates to OS.","A basic understanding of lightweight process, execution, concurrent as it relates to OS.",1.0
+"A basic understanding of lightweight process, execution, concurrent as it relates to OS.","lightweight process, execution, concurrent, process, stack",0.8
+"A basic understanding of lightweight process, execution, concurrent as it relates to OS.",A basic understanding of lightweight process,0.6
+"A basic understanding of CPU time, allocation, execution order as it relates to OS.","A basic understanding of CPU time, allocation, execution order as it relates to OS.",1.0
+"A basic understanding of CPU time, allocation, execution order as it relates to OS.","CPU time, allocation, execution order, process, algorithm",0.8
+"A basic understanding of CPU time, allocation, execution order as it relates to OS.","A basic understanding of CPU time, alloca",0.6
+"A basic understanding of save state, load state, process switch as it relates to OS.","A basic understanding of save state, load state, process switch as it relates to OS.",1.0
+"A basic understanding of save state, load state, process switch as it relates to OS.","save state, load state, process switch, registers, memory",0.8
+"A basic understanding of save state, load state, process switch as it relates to OS.","A basic understanding of save state, load",0.6
+"A basic understanding of disk, extension, RAM as it relates to OS.","A basic understanding of disk, extension, RAM as it relates to OS.",1.0
+"A basic understanding of disk, extension, RAM as it relates to OS.","disk, extension, RAM, address space, abstraction",0.8
+"A basic understanding of disk, extension, RAM as it relates to OS.","A basic understanding of disk, ex",0.6
+"A basic understanding of fixed-size, memory division, frames as it relates to OS.","A basic understanding of fixed-size, memory division, frames as it relates to OS.",1.0
+"A basic understanding of fixed-size, memory division, frames as it relates to OS.","fixed-size, memory division, frames, pages, virtual memory",0.8
+"A basic understanding of fixed-size, memory division, frames as it relates to OS.","A basic understanding of fixed-size, mem",0.6
+"A basic understanding of missing page, interrupt, disk access as it relates to OS.","A basic understanding of missing page, interrupt, disk access as it relates to OS.",1.0
+"A basic understanding of missing page, interrupt, disk access as it relates to OS.","missing page, interrupt, disk access, memory, loading",0.8
+"A basic understanding of missing page, interrupt, disk access as it relates to OS.","A basic understanding of missing page, in",0.6
+"A basic understanding of mutual exclusion, lock, exclusive access as it relates to OS.","A basic understanding of mutual exclusion, lock, exclusive access as it relates to OS.",1.0
+"A basic understanding of mutual exclusion, lock, exclusive access as it relates to OS.","mutual exclusion, lock, exclusive access, synchronization, resource",0.8
+"A basic understanding of mutual exclusion, lock, exclusive access as it relates to OS.","A basic understanding of mutual exclusion,",0.6
+"A basic understanding of counter, synchronization, access control as it relates to OS.","A basic understanding of counter, synchronization, access control as it relates to OS.",1.0
+"A basic understanding of counter, synchronization, access control as it relates to OS.","counter, synchronization, access control, signal, primitive",0.8
+"A basic understanding of counter, synchronization, access control as it relates to OS.","A basic understanding of counter, synchroni",0.6
+"A basic understanding of shared resource, exclusive, code as it relates to OS.","A basic understanding of shared resource, exclusive, code as it relates to OS.",1.0
+"A basic understanding of shared resource, exclusive, code as it relates to OS.","shared resource, exclusive, code, mutual exclusion, access",0.8
+"A basic understanding of shared resource, exclusive, code as it relates to OS.",A basic understanding of shared resourc,0.6
+"A basic understanding of circular wait, processes, resources as it relates to OS.","A basic understanding of circular wait, processes, resources as it relates to OS.",1.0
+"A basic understanding of circular wait, processes, resources as it relates to OS.","circular wait, processes, resources, indefinite, blocking",0.8
+"A basic understanding of circular wait, processes, resources as it relates to OS.","A basic understanding of circular wait,",0.6
+"A basic understanding of process, CPU time, never as it relates to OS.","A basic understanding of process, CPU time, never as it relates to OS.",1.0
+"A basic understanding of process, CPU time, never as it relates to OS.","process, CPU time, never, allocation, scheduling",0.8
+"A basic understanding of process, CPU time, never as it relates to OS.","A basic understanding of process, C",0.6
+"A basic understanding of organization, storage, files as it relates to OS.","A basic understanding of organization, storage, files as it relates to OS.",1.0
+"A basic understanding of organization, storage, files as it relates to OS.","organization, storage, files, hierarchical, directories",0.8
+"A basic understanding of organization, storage, files as it relates to OS.",A basic understanding of organization,0.6
+"A basic understanding of metadata, file information, permissions as it relates to OS.","A basic understanding of metadata, file information, permissions as it relates to OS.",1.0
+"A basic understanding of metadata, file information, permissions as it relates to OS.","metadata, file information, permissions, size, disk blocks",0.8
+"A basic understanding of metadata, file information, permissions as it relates to OS.","A basic understanding of metadata, file in",0.6
+"A comprehensive explanation of fast memory, speed, storage, including their application and importance in OS.","A comprehensive explanation of fast memory, speed, storage, including their application and importance in OS.",1.0
+"A comprehensive explanation of fast memory, speed, storage, including their application and importance in OS.","fast memory, speed, storage, data, retrieval",0.8
+"A comprehensive explanation of fast memory, speed, storage, including their application and importance in OS.","A comprehensive explanation of fast memory, speed, sto",0.6
+"A comprehensive explanation of hardware signal, event, system, including their application and importance in OS.","A comprehensive explanation of hardware signal, event, system, including their application and importance in OS.",1.0
+"A comprehensive explanation of hardware signal, event, system, including their application and importance in OS.","hardware signal, event, system, attention, cpu",0.8
+"A comprehensive explanation of hardware signal, event, system, including their application and importance in OS.","A comprehensive explanation of hardware signal, event, s",0.6
+"A comprehensive explanation of routine, response, interrupt, including their application and importance in OS.","A comprehensive explanation of routine, response, interrupt, including their application and importance in OS.",1.0
+"A comprehensive explanation of routine, response, interrupt, including their application and importance in OS.","routine, response, interrupt, event, code",0.8
+"A comprehensive explanation of routine, response, interrupt, including their application and importance in OS.","A comprehensive explanation of routine, response, inter",0.6
+"A comprehensive explanation of user mode, kernel mode, execution, including their application and importance in OS.","A comprehensive explanation of user mode, kernel mode, execution, including their application and importance in OS.",1.0
+"A comprehensive explanation of user mode, kernel mode, execution, including their application and importance in OS.","user mode, kernel mode, execution, restriction, access",0.8
+"A comprehensive explanation of user mode, kernel mode, execution, including their application and importance in OS.","A comprehensive explanation of user mode, kernel mode, ex",0.6
+"A comprehensive explanation of hardware control, software, interface, including their application and importance in OS.","A comprehensive explanation of hardware control, software, interface, including their application and importance in OS.",1.0
+"A comprehensive explanation of hardware control, software, interface, including their application and importance in OS.","hardware control, software, interface, device, OS",0.8
+"A comprehensive explanation of hardware control, software, interface, including their application and importance in OS.","A comprehensive explanation of hardware control, software,",0.6
+"A comprehensive explanation of time slice, scheduling, fair, including their application and importance in OS.","A comprehensive explanation of time slice, scheduling, fair, including their application and importance in OS.",1.0
+"A comprehensive explanation of time slice, scheduling, fair, including their application and importance in OS.","time slice, scheduling, fair, rotation, CPU",0.8
+"A comprehensive explanation of time slice, scheduling, fair, including their application and importance in OS.","A comprehensive explanation of time slice, scheduling,",0.6
+"A comprehensive explanation of first-come-first-served, queue, arrival, including their application and importance in OS.","A comprehensive explanation of first-come-first-served, queue, arrival, including their application and importance in OS.",1.0
+"A comprehensive explanation of first-come-first-served, queue, arrival, including their application and importance in OS.","first-come-first-served, queue, arrival, scheduling, order",0.8
+"A comprehensive explanation of first-come-first-served, queue, arrival, including their application and importance in OS.","A comprehensive explanation of first-come-first-served, queu",0.6
+"A comprehensive explanation of priority, execution, importance, including their application and importance in OS.","A comprehensive explanation of priority, execution, importance, including their application and importance in OS.",1.0
+"A comprehensive explanation of priority, execution, importance, including their application and importance in OS.","priority, execution, importance, process, queue",0.8
+"A comprehensive explanation of priority, execution, importance, including their application and importance in OS.","A comprehensive explanation of priority, execution, impo",0.6
+"A comprehensive explanation of scattered, free space, allocation, including their application and importance in OS.","A comprehensive explanation of scattered, free space, allocation, including their application and importance in OS.",1.0
+"A comprehensive explanation of scattered, free space, allocation, including their application and importance in OS.","scattered, free space, allocation, inefficiency, waste",0.8
+"A comprehensive explanation of scattered, free space, allocation, including their application and importance in OS.","A comprehensive explanation of scattered, free space, all",0.6
+"A comprehensive explanation of virtual memory, disk, extension, including their application and importance in OS.","A comprehensive explanation of virtual memory, disk, extension, including their application and importance in OS.",1.0
+"A comprehensive explanation of virtual memory, disk, extension, including their application and importance in OS.","virtual memory, disk, extension, overflow, storage",0.8
+"A comprehensive explanation of virtual memory, disk, extension, including their application and importance in OS.","A comprehensive explanation of virtual memory, disk, ext",0.6
+"A comprehensive explanation of redundant, disk array, storage, including their application and importance in OS.","A comprehensive explanation of redundant, disk array, storage, including their application and importance in OS.",1.0
+"A comprehensive explanation of redundant, disk array, storage, including their application and importance in OS.","redundant, disk array, storage, fault tolerance, performance",0.8
+"A comprehensive explanation of redundant, disk array, storage, including their application and importance in OS.","A comprehensive explanation of redundant, disk array, st",0.6
+"A comprehensive explanation of striping, performance, no redundancy, including their application and importance in OS.","A comprehensive explanation of striping, performance, no redundancy, including their application and importance in OS.",1.0
+"A comprehensive explanation of striping, performance, no redundancy, including their application and importance in OS.","striping, performance, no redundancy, parallel, speed",0.8
+"A comprehensive explanation of striping, performance, no redundancy, including their application and importance in OS.","A comprehensive explanation of striping, performance, no re",0.6
+"A comprehensive explanation of mirroring, redundancy, fault tolerance, including their application and importance in OS.","A comprehensive explanation of mirroring, redundancy, fault tolerance, including their application and importance in OS.",1.0
+"A comprehensive explanation of mirroring, redundancy, fault tolerance, including their application and importance in OS.","mirroring, redundancy, fault tolerance, duplicate, reliability",0.8
+"A comprehensive explanation of mirroring, redundancy, fault tolerance, including their application and importance in OS.","A comprehensive explanation of mirroring, redundancy, fault",0.6
+"A comprehensive explanation of striping, parity, redundancy, including their application and importance in OS.","A comprehensive explanation of striping, parity, redundancy, including their application and importance in OS.",1.0
+"A comprehensive explanation of striping, parity, redundancy, including their application and importance in OS.","striping, parity, redundancy, fault tolerance, performance",0.8
+"A comprehensive explanation of striping, parity, redundancy, including their application and importance in OS.","A comprehensive explanation of striping, parity, redund",0.6
+"A comprehensive explanation of dual parity, redundancy, fault tolerance, including their application and importance in OS.","A comprehensive explanation of dual parity, redundancy, fault tolerance, including their application and importance in OS.",1.0
+"A comprehensive explanation of dual parity, redundancy, fault tolerance, including their application and importance in OS.","dual parity, redundancy, fault tolerance, two drives, failure",0.8
+"A comprehensive explanation of dual parity, redundancy, fault tolerance, including their application and importance in OS.","A comprehensive explanation of dual parity, redundancy, fault",0.6
+"An advanced understanding of least recently used, page, eviction, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of least recently used, page, eviction, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of least recently used, page, eviction, including implementation details, trade-offs, and real-world use cases in OS.","least recently used, page, eviction, memory, algorithm",0.8
+"An advanced understanding of least recently used, page, eviction, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of least recently used, page, eviction, inclu",0.6
+"An advanced understanding of first-in-first-out, page, queue, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of first-in-first-out, page, queue, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of first-in-first-out, page, queue, including implementation details, trade-offs, and real-world use cases in OS.","first-in-first-out, page, queue, memory, eviction",0.8
+"An advanced understanding of first-in-first-out, page, queue, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of first-in-first-out, page, queue, includi",0.6
+"An advanced understanding of recently used, pages, process, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of recently used, pages, process, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of recently used, pages, process, including implementation details, trade-offs, and real-world use cases in OS.","recently used, pages, process, memory, active",0.8
+"An advanced understanding of recently used, pages, process, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of recently used, pages, process, includin",0.6
+"An advanced understanding of deadlock avoidance, safe state, allocation, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of deadlock avoidance, safe state, allocation, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of deadlock avoidance, safe state, allocation, including implementation details, trade-offs, and real-world use cases in OS.","deadlock avoidance, safe state, allocation, resource, check",0.8
+"An advanced understanding of deadlock avoidance, safe state, allocation, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of deadlock avoidance, safe state, allocation, in",0.6
+"An advanced understanding of synchronization, encapsulation, mutual exclusion, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of synchronization, encapsulation, mutual exclusion, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of synchronization, encapsulation, mutual exclusion, including implementation details, trade-offs, and real-world use cases in OS.","synchronization, encapsulation, mutual exclusion, shared data, construct",0.8
+"An advanced understanding of synchronization, encapsulation, mutual exclusion, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of synchronization, encapsulation, mutual exclusion,",0.6
+"An advanced understanding of wait, condition, thread, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of wait, condition, thread, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of wait, condition, thread, including implementation details, trade-offs, and real-world use cases in OS.","wait, condition, thread, signal, synchronization",0.8
+"An advanced understanding of wait, condition, thread, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of wait, condition, thread, including i",0.6
+"A comprehensive explanation of FCFS, SJF, Round Robin, including their application and importance in OS.","A comprehensive explanation of FCFS, SJF, Round Robin, including their application and importance in OS.",1.0
+"A comprehensive explanation of FCFS, SJF, Round Robin, including their application and importance in OS.","FCFS, SJF, Round Robin, Priority, scheduling",0.8
+"A comprehensive explanation of FCFS, SJF, Round Robin, including their application and importance in OS.","A comprehensive explanation of FCFS, SJF, Round Robi",0.6
+"A basic understanding of allocation, deallocation, paging as it relates to OS.","A basic understanding of allocation, deallocation, paging as it relates to OS.",1.0
+"A basic understanding of allocation, deallocation, paging as it relates to OS.","allocation, deallocation, paging, segmentation, management",0.8
+"A basic understanding of allocation, deallocation, paging as it relates to OS.","A basic understanding of allocation, de",0.6
+"A basic understanding of mutual exclusion, race condition, critical section as it relates to OS.","A basic understanding of mutual exclusion, race condition, critical section as it relates to OS.",1.0
+"A basic understanding of mutual exclusion, race condition, critical section as it relates to OS.","mutual exclusion, race condition, critical section, locks",0.8
+"A basic understanding of mutual exclusion, race condition, critical section as it relates to OS.","A basic understanding of mutual exclusion, race",0.6
+"A basic understanding of paging, segmentation, TLB as it relates to OS.","A basic understanding of paging, segmentation, TLB as it relates to OS.",1.0
+"A basic understanding of paging, segmentation, TLB as it relates to OS.","paging, segmentation, TLB, address translation, memory",0.8
+"A basic understanding of paging, segmentation, TLB as it relates to OS.","A basic understanding of paging, se",0.6
+"A basic understanding of translation lookaside buffer, cache, address translation as it relates to OS.","A basic understanding of translation lookaside buffer, cache, address translation as it relates to OS.",1.0
+"A basic understanding of translation lookaside buffer, cache, address translation as it relates to OS.","translation lookaside buffer, cache, address translation, performance, hit",0.8
+"A basic understanding of translation lookaside buffer, cache, address translation as it relates to OS.",A basic understanding of translation lookaside buff,0.6
+"A basic understanding of LRU, FIFO, optimal as it relates to OS.","A basic understanding of LRU, FIFO, optimal as it relates to OS.",1.0
+"A basic understanding of LRU, FIFO, optimal as it relates to OS.","LRU, FIFO, optimal, clock, second chance",0.8
+"A basic understanding of LRU, FIFO, optimal as it relates to OS.","A basic understanding of LRU, FI",0.6
+"An advanced understanding of optimization, defer copying, memory, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of optimization, defer copying, memory, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of optimization, defer copying, memory, including implementation details, trade-offs, and real-world use cases in OS.","optimization, defer copying, memory, performance, modification",0.8
+"An advanced understanding of optimization, defer copying, memory, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of optimization, defer copying, memory, inclu",0.6
+"An advanced understanding of multi-processor, consistency, protocol, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of multi-processor, consistency, protocol, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of multi-processor, consistency, protocol, including implementation details, trade-offs, and real-world use cases in OS.","multi-processor, consistency, protocol, MESI, cache",0.8
+"An advanced understanding of multi-processor, consistency, protocol, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of multi-processor, consistency, protocol, incl",0.6
+"A basic understanding of hardware interrupt, signal, handler as it relates to OS.","A basic understanding of hardware interrupt, signal, handler as it relates to OS.",1.0
+"A basic understanding of hardware interrupt, signal, handler as it relates to OS.","hardware interrupt, signal, handler, priority, response",0.8
+"A basic understanding of hardware interrupt, signal, handler as it relates to OS.",A basic understanding of hardware interr,0.6
+"An advanced understanding of user mode, kernel mode, restriction, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of user mode, kernel mode, restriction, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of user mode, kernel mode, restriction, including implementation details, trade-offs, and real-world use cases in OS.","user mode, kernel mode, restriction, CPU, instruction",0.8
+"An advanced understanding of user mode, kernel mode, restriction, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of user mode, kernel mode, restriction, inclu",0.6
+"A basic understanding of disk, order, elevator as it relates to OS.","A basic understanding of disk, order, elevator as it relates to OS.",1.0
+"A basic understanding of disk, order, elevator as it relates to OS.","disk, order, elevator, SCAN, optimization",0.8
+"A basic understanding of disk, order, elevator as it relates to OS.","A basic understanding of disk, or",0.6
+"An advanced understanding of registers, cache, RAM, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of registers, cache, RAM, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of registers, cache, RAM, including implementation details, trade-offs, and real-world use cases in OS.","registers, cache, RAM, disk, speed, capacity",0.8
+"An advanced understanding of registers, cache, RAM, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of registers, cache, RAM, including im",0.6
+"An advanced understanding of translation, memory, performance, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of translation, memory, performance, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of translation, memory, performance, including implementation details, trade-offs, and real-world use cases in OS.","translation, memory, performance, page table, latency",0.8
+"An advanced understanding of translation, memory, performance, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of translation, memory, performance, includi",0.6
+"An advanced understanding of non-uniform memory, access time, multiprocessor, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of non-uniform memory, access time, multiprocessor, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of non-uniform memory, access time, multiprocessor, including implementation details, trade-offs, and real-world use cases in OS.","non-uniform memory, access time, multiprocessor, distance, locality",0.8
+"An advanced understanding of non-uniform memory, access time, multiprocessor, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of non-uniform memory, access time, multiprocessor,",0.6
+"An advanced understanding of pre-created, threads, task execution, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of pre-created, threads, task execution, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of pre-created, threads, task execution, including implementation details, trade-offs, and real-world use cases in OS.","pre-created, threads, task execution, overhead, performance",0.8
+"An advanced understanding of pre-created, threads, task execution, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of pre-created, threads, task execution, inclu",0.6
+"An advanced understanding of fork, exec, parent, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of fork, exec, parent, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of fork, exec, parent, including implementation details, trade-offs, and real-world use cases in OS.","fork, exec, parent, child, process",0.8
+"An advanced understanding of fork, exec, parent, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of fork, exec, parent, including impl",0.6
+"A basic understanding of exit, signal, cleanup as it relates to OS.","A basic understanding of exit, signal, cleanup as it relates to OS.",1.0
+"A basic understanding of exit, signal, cleanup as it relates to OS.","exit, signal, cleanup, resources, termination",0.8
+"A basic understanding of exit, signal, cleanup as it relates to OS.","A basic understanding of exit, si",0.6
+"A comprehensive explanation of interrupt, signal, handler, including their application and importance in OS.","A comprehensive explanation of interrupt, signal, handler, including their application and importance in OS.",1.0
+"A comprehensive explanation of interrupt, signal, handler, including their application and importance in OS.","interrupt, signal, handler, OS, process",0.8
+"A comprehensive explanation of interrupt, signal, handler, including their application and importance in OS.","A comprehensive explanation of interrupt, signal, hand",0.6
+"A basic understanding of pipe, message queue, shared memory as it relates to OS.","A basic understanding of pipe, message queue, shared memory as it relates to OS.",1.0
+"A basic understanding of pipe, message queue, shared memory as it relates to OS.","pipe, message queue, shared memory, socket, communication",0.8
+"A basic understanding of pipe, message queue, shared memory as it relates to OS.","A basic understanding of pipe, message q",0.6
+"An advanced understanding of network, communication, server, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of network, communication, server, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of network, communication, server, including implementation details, trade-offs, and real-world use cases in OS.","network, communication, server, client, socket",0.8
+"An advanced understanding of network, communication, server, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of network, communication, server, includin",0.6
+"A comprehensive explanation of mmap, file, memory, including their application and importance in OS.","A comprehensive explanation of mmap, file, memory, including their application and importance in OS.",1.0
+"A comprehensive explanation of mmap, file, memory, including their application and importance in OS.","mmap, file, memory, sharing, efficient",0.8
+"A comprehensive explanation of mmap, file, memory, including their application and importance in OS.","A comprehensive explanation of mmap, file, memory,",0.6
+"An advanced understanding of terminated, parent, wait, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of terminated, parent, wait, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of terminated, parent, wait, including implementation details, trade-offs, and real-world use cases in OS.","terminated, parent, wait, cleanup, resource",0.8
+"An advanced understanding of terminated, parent, wait, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of terminated, parent, wait, including i",0.6
+"An advanced understanding of parent dies, init, adoption, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of parent dies, init, adoption, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of parent dies, init, adoption, including implementation details, trade-offs, and real-world use cases in OS.","parent dies, init, adoption, process, exit",0.8
+"An advanced understanding of parent dies, init, adoption, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of parent dies, init, adoption, including",0.6
+"A comprehensive explanation of kernel, user space, privileged, including their application and importance in OS.","A comprehensive explanation of kernel, user space, privileged, including their application and importance in OS.",1.0
+"A comprehensive explanation of kernel, user space, privileged, including their application and importance in OS.","kernel, user space, privileged, transition, OS",0.8
+"A comprehensive explanation of kernel, user space, privileged, including their application and importance in OS.","A comprehensive explanation of kernel, user space, privi",0.6
+"An advanced understanding of privilege, memory, kernel mode, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of privilege, memory, kernel mode, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of privilege, memory, kernel mode, including implementation details, trade-offs, and real-world use cases in OS.","privilege, memory, kernel mode, user mode",0.8
+"An advanced understanding of privilege, memory, kernel mode, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of privilege, memory, kernel mode, includin",0.6
+"A comprehensive explanation of synchronization, algorithm, implementation, including their application and importance in OS.","A comprehensive explanation of synchronization, algorithm, implementation, including their application and importance in OS.",1.0
+"A comprehensive explanation of synchronization, algorithm, implementation, including their application and importance in OS.","synchronization, algorithm, implementation, optimization, design",0.8
+"A comprehensive explanation of synchronization, algorithm, implementation, including their application and importance in OS.","A comprehensive explanation of synchronization, algorithm, imp",0.6
+"A comprehensive explanation of memory, algorithm, implementation, including their application and importance in OS.","A comprehensive explanation of memory, algorithm, implementation, including their application and importance in OS.",1.0
+"A comprehensive explanation of memory, algorithm, implementation, including their application and importance in OS.","memory, algorithm, implementation, optimization, design",0.8
+"A comprehensive explanation of memory, algorithm, implementation, including their application and importance in OS.","A comprehensive explanation of memory, algorithm, impleme",0.6
+"An advanced understanding of cache, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of cache, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of cache, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in OS.","cache, algorithm, implementation, optimization, design",0.8
+"An advanced understanding of cache, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of cache, algorithm, implementation, includi",0.6
+"An advanced understanding of processes, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of processes, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of processes, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in OS.","processes, algorithm, implementation, optimization, design",0.8
+"An advanced understanding of processes, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of processes, algorithm, implementation, inclu",0.6
+"A comprehensive explanation of scheduling, algorithm, implementation, including their application and importance in OS.","A comprehensive explanation of scheduling, algorithm, implementation, including their application and importance in OS.",1.0
+"A comprehensive explanation of scheduling, algorithm, implementation, including their application and importance in OS.","scheduling, algorithm, implementation, optimization, design",0.8
+"A comprehensive explanation of scheduling, algorithm, implementation, including their application and importance in OS.","A comprehensive explanation of scheduling, algorithm, imple",0.6
+"An advanced understanding of threading, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of threading, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of threading, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in OS.","threading, algorithm, implementation, optimization, design",0.8
+"An advanced understanding of threading, algorithm, implementation, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of threading, algorithm, implementation, inclu",0.6
+"A comprehensive explanation of I/O, algorithm, implementation, including their application and importance in OS.","A comprehensive explanation of I/O, algorithm, implementation, including their application and importance in OS.",1.0
+"A comprehensive explanation of I/O, algorithm, implementation, including their application and importance in OS.","I/O, algorithm, implementation, optimization, design",0.8
+"A comprehensive explanation of I/O, algorithm, implementation, including their application and importance in OS.","A comprehensive explanation of I/O, algorithm, implement",0.6
+"A comprehensive explanation of synchronization, encapsulation, mutual exclusion, including their application and importance in OS.","A comprehensive explanation of synchronization, encapsulation, mutual exclusion, including their application and importance in OS.",1.0
+"A comprehensive explanation of synchronization, encapsulation, mutual exclusion, including their application and importance in OS.","synchronization, encapsulation, mutual exclusion, construct",0.8
+"A comprehensive explanation of synchronization, encapsulation, mutual exclusion, including their application and importance in OS.","A comprehensive explanation of synchronization, encapsulation, mu",0.6
+"An advanced understanding of wait, signal, broadcast, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of wait, signal, broadcast, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of wait, signal, broadcast, including implementation details, trade-offs, and real-world use cases in OS.","wait, signal, broadcast, condition, synchronization",0.8
+"An advanced understanding of wait, signal, broadcast, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of wait, signal, broadcast, including i",0.6
+"An advanced understanding of wait, all threads, point, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of wait, all threads, point, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of wait, all threads, point, including implementation details, trade-offs, and real-world use cases in OS.","wait, all threads, point, synchronization, barrier",0.8
+"An advanced understanding of wait, all threads, point, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of wait, all threads, point, including i",0.6
+"A basic understanding of busy wait, loop, lock as it relates to OS.","A basic understanding of busy wait, loop, lock as it relates to OS.",1.0
+"A basic understanding of busy wait, loop, lock as it relates to OS.","busy wait, loop, lock, CPU, inefficient",0.8
+"A basic understanding of busy wait, loop, lock as it relates to OS.",A basic understanding of busy wai,0.6
+"An advanced understanding of fast userspace mutex, kernel, efficient, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of fast userspace mutex, kernel, efficient, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of fast userspace mutex, kernel, efficient, including implementation details, trade-offs, and real-world use cases in OS.","fast userspace mutex, kernel, efficient, synchronization, futex",0.8
+"An advanced understanding of fast userspace mutex, kernel, efficient, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of fast userspace mutex, kernel, efficient, inc",0.6
+"A comprehensive explanation of readers, writers, exclusive, including their application and importance in OS.","A comprehensive explanation of readers, writers, exclusive, including their application and importance in OS.",1.0
+"A comprehensive explanation of readers, writers, exclusive, including their application and importance in OS.","readers, writers, exclusive, shared, lock",0.8
+"A comprehensive explanation of readers, writers, exclusive, including their application and importance in OS.","A comprehensive explanation of readers, writers, exclu",0.6
+"An advanced understanding of queue-based, lock, fairness, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of queue-based, lock, fairness, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of queue-based, lock, fairness, including implementation details, trade-offs, and real-world use cases in OS.","queue-based, lock, fairness, scalability, synchronization",0.8
+"An advanced understanding of queue-based, lock, fairness, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of queue-based, lock, fairness, including",0.6
+"A basic understanding of memory order, synchronization, consistency as it relates to OS.","A basic understanding of memory order, synchronization, consistency as it relates to OS.",1.0
+"A basic understanding of memory order, synchronization, consistency as it relates to OS.","memory order, synchronization, consistency, CPU, cache",0.8
+"A basic understanding of memory order, synchronization, consistency as it relates to OS.","A basic understanding of memory order, synch",0.6
+"A basic understanding of memory model, order, atomicity as it relates to OS.","A basic understanding of memory model, order, atomicity as it relates to OS.",1.0
+"A basic understanding of memory model, order, atomicity as it relates to OS.","memory model, order, atomicity, consistency, strict",0.8
+"A basic understanding of memory model, order, atomicity as it relates to OS.","A basic understanding of memory model,",0.6
+"A comprehensive explanation of consistency model, reads, writes, including their application and importance in OS.","A comprehensive explanation of consistency model, reads, writes, including their application and importance in OS.",1.0
+"A comprehensive explanation of consistency model, reads, writes, including their application and importance in OS.","consistency model, reads, writes, memory, order",0.8
+"A comprehensive explanation of consistency model, reads, writes, including their application and importance in OS.","A comprehensive explanation of consistency model, reads,",0.6
+"A basic understanding of consistency model, acquire, release as it relates to OS.","A basic understanding of consistency model, acquire, release as it relates to OS.",1.0
+"A basic understanding of consistency model, acquire, release as it relates to OS.","consistency model, acquire, release, synchronization, memory",0.8
+"A basic understanding of consistency model, acquire, release as it relates to OS.",A basic understanding of consistency mod,0.6
+"An advanced understanding of consistency model, relaxed, synchronization, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of consistency model, relaxed, synchronization, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of consistency model, relaxed, synchronization, including implementation details, trade-offs, and real-world use cases in OS.","consistency model, relaxed, synchronization, memory, efficiency",0.8
+"An advanced understanding of consistency model, relaxed, synchronization, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of consistency model, relaxed, synchronization, i",0.6
+"An advanced understanding of consistency model, distributed, eventually, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of consistency model, distributed, eventually, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of consistency model, distributed, eventually, including implementation details, trade-offs, and real-world use cases in OS.","consistency model, distributed, eventually, convergence, eventual",0.8
+"An advanced understanding of consistency model, distributed, eventually, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of consistency model, distributed, eventually, in",0.6
+"A basic understanding of consistency model, immediate, all replicas as it relates to OS.","A basic understanding of consistency model, immediate, all replicas as it relates to OS.",1.0
+"A basic understanding of consistency model, immediate, all replicas as it relates to OS.","consistency model, immediate, all replicas, synchronized, strong",0.8
+"A basic understanding of consistency model, immediate, all replicas as it relates to OS.","A basic understanding of consistency model,",0.6
+"A comprehensive explanation of relaxed ordering, efficiency, CPU, including their application and importance in OS.","A comprehensive explanation of relaxed ordering, efficiency, CPU, including their application and importance in OS.",1.0
+"A comprehensive explanation of relaxed ordering, efficiency, CPU, including their application and importance in OS.","relaxed ordering, efficiency, CPU, compiler, reordering",0.8
+"A comprehensive explanation of relaxed ordering, efficiency, CPU, including their application and importance in OS.","A comprehensive explanation of relaxed ordering, efficien",0.6
+"An advanced understanding of MESI, MOESI, cache, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of MESI, MOESI, cache, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of MESI, MOESI, cache, including implementation details, trade-offs, and real-world use cases in OS.","MESI, MOESI, cache, coherence, protocol",0.8
+"An advanced understanding of MESI, MOESI, cache, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of MESI, MOESI, cache, including impl",0.6
+"A comprehensive explanation of directory, coherence, protocol, including their application and importance in OS.","A comprehensive explanation of directory, coherence, protocol, including their application and importance in OS.",1.0
+"A comprehensive explanation of directory, coherence, protocol, including their application and importance in OS.","directory, coherence, protocol, cache, invalidation",0.8
+"A comprehensive explanation of directory, coherence, protocol, including their application and importance in OS.","A comprehensive explanation of directory, coherence, pro",0.6
+"An advanced understanding of bus, broadcast, coherence, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of bus, broadcast, coherence, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of bus, broadcast, coherence, including implementation details, trade-offs, and real-world use cases in OS.","bus, broadcast, coherence, protocol, cache",0.8
+"An advanced understanding of bus, broadcast, coherence, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of bus, broadcast, coherence, including",0.6
+"A comprehensive explanation of bus, snoop, coherence, including their application and importance in OS.","A comprehensive explanation of bus, snoop, coherence, including their application and importance in OS.",1.0
+"A comprehensive explanation of bus, snoop, coherence, including their application and importance in OS.","bus, snoop, coherence, protocol, cache",0.8
+"A comprehensive explanation of bus, snoop, coherence, including their application and importance in OS.","A comprehensive explanation of bus, snoop, coherenc",0.6
+"An advanced understanding of container, isolation, Docker, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of container, isolation, Docker, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of container, isolation, Docker, including implementation details, trade-offs, and real-world use cases in OS.","container, isolation, Docker, lightweight, deployment",0.8
+"An advanced understanding of container, isolation, Docker, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of container, isolation, Docker, including",0.6
+"A basic understanding of virtualization, hypervisor, OS as it relates to OS.","A basic understanding of virtualization, hypervisor, OS as it relates to OS.",1.0
+"A basic understanding of virtualization, hypervisor, OS as it relates to OS.","virtualization, hypervisor, OS, hardware, emulation",0.8
+"A basic understanding of virtualization, hypervisor, OS as it relates to OS.",A basic understanding of virtualizatio,0.6
+"A comprehensive explanation of isolation, resources, process, including their application and importance in OS.","A comprehensive explanation of isolation, resources, process, including their application and importance in OS.",1.0
+"A comprehensive explanation of isolation, resources, process, including their application and importance in OS.","isolation, resources, process, Linux, container",0.8
+"A comprehensive explanation of isolation, resources, process, including their application and importance in OS.","A comprehensive explanation of isolation, resources, pr",0.6
+"An advanced understanding of resource control, memory, CPU, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of resource control, memory, CPU, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of resource control, memory, CPU, including implementation details, trade-offs, and real-world use cases in OS.","resource control, memory, CPU, limits, control group",0.8
+"An advanced understanding of resource control, memory, CPU, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of resource control, memory, CPU, includin",0.6
+"An advanced understanding of init system, service, management, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of init system, service, management, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of init system, service, management, including implementation details, trade-offs, and real-world use cases in OS.","init system, service, management, Linux, daemon",0.8
+"An advanced understanding of init system, service, management, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of init system, service, management, includi",0.6
+"An advanced understanding of kernel module, loadable, dynamic, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of kernel module, loadable, dynamic, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of kernel module, loadable, dynamic, including implementation details, trade-offs, and real-world use cases in OS.","kernel module, loadable, dynamic, extension, kernel",0.8
+"An advanced understanding of kernel module, loadable, dynamic, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of kernel module, loadable, dynamic, includi",0.6
+"A comprehensive explanation of TCP/IP, layers, protocol, including their application and importance in OS.","A comprehensive explanation of TCP/IP, layers, protocol, including their application and importance in OS.",1.0
+"A comprehensive explanation of TCP/IP, layers, protocol, including their application and importance in OS.","TCP/IP, layers, protocol, network, stack",0.8
+"A comprehensive explanation of TCP/IP, layers, protocol, including their application and importance in OS.","A comprehensive explanation of TCP/IP, layers, protoc",0.6
+"A comprehensive explanation of firewall, rules, packets, including their application and importance in OS.","A comprehensive explanation of firewall, rules, packets, including their application and importance in OS.",1.0
+"A comprehensive explanation of firewall, rules, packets, including their application and importance in OS.","firewall, rules, packets, network, security",0.8
+"A comprehensive explanation of firewall, rules, packets, including their application and importance in OS.","A comprehensive explanation of firewall, rules, packe",0.6
+"A comprehensive explanation of network address translation, IP, translation, including their application and importance in OS.","A comprehensive explanation of network address translation, IP, translation, including their application and importance in OS.",1.0
+"A comprehensive explanation of network address translation, IP, translation, including their application and importance in OS.","network address translation, IP, translation, gateway, firewall",0.8
+"A comprehensive explanation of network address translation, IP, translation, including their application and importance in OS.","A comprehensive explanation of network address translation, IP,",0.6
+"An advanced understanding of quality of service, priority, bandwidth, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of quality of service, priority, bandwidth, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of quality of service, priority, bandwidth, including implementation details, trade-offs, and real-world use cases in OS.","quality of service, priority, bandwidth, traffic, management",0.8
+"An advanced understanding of quality of service, priority, bandwidth, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of quality of service, priority, bandwidth, inc",0.6
+"A basic understanding of kernel scheduling, algorithm, optimization as it relates to OS.","A basic understanding of kernel scheduling, algorithm, optimization as it relates to OS.",1.0
+"A basic understanding of kernel scheduling, algorithm, optimization as it relates to OS.","kernel scheduling, algorithm, optimization, efficiency, implementation",0.8
+"A basic understanding of kernel scheduling, algorithm, optimization as it relates to OS.","A basic understanding of kernel scheduling,",0.6
+"A basic understanding of load balancing, algorithm, optimization as it relates to OS.","A basic understanding of load balancing, algorithm, optimization as it relates to OS.",1.0
+"A basic understanding of load balancing, algorithm, optimization as it relates to OS.","load balancing, algorithm, optimization, efficiency, implementation",0.8
+"A basic understanding of load balancing, algorithm, optimization as it relates to OS.","A basic understanding of load balancing, a",0.6
+"A basic understanding of task migration, algorithm, optimization as it relates to OS.","A basic understanding of task migration, algorithm, optimization as it relates to OS.",1.0
+"A basic understanding of task migration, algorithm, optimization as it relates to OS.","task migration, algorithm, optimization, efficiency, implementation",0.8
+"A basic understanding of task migration, algorithm, optimization as it relates to OS.","A basic understanding of task migration, a",0.6
+"An advanced understanding of cpu affinity, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of cpu affinity, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of cpu affinity, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.","cpu affinity, algorithm, optimization, efficiency, implementation",0.8
+"An advanced understanding of cpu affinity, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of cpu affinity, algorithm, optimization, incl",0.6
+"An advanced understanding of power management, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of power management, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of power management, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.","power management, algorithm, optimization, efficiency, implementation",0.8
+"An advanced understanding of power management, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of power management, algorithm, optimization, in",0.6
+"An advanced understanding of thermal management, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of thermal management, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of thermal management, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.","thermal management, algorithm, optimization, efficiency, implementation",0.8
+"An advanced understanding of thermal management, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of thermal management, algorithm, optimization, i",0.6
+"An advanced understanding of security hardening, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of security hardening, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of security hardening, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.","security hardening, algorithm, optimization, efficiency, implementation",0.8
+"An advanced understanding of security hardening, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of security hardening, algorithm, optimization, i",0.6
+"A comprehensive explanation of selinux, algorithm, optimization, including their application and importance in OS.","A comprehensive explanation of selinux, algorithm, optimization, including their application and importance in OS.",1.0
+"A comprehensive explanation of selinux, algorithm, optimization, including their application and importance in OS.","selinux, algorithm, optimization, efficiency, implementation",0.8
+"A comprehensive explanation of selinux, algorithm, optimization, including their application and importance in OS.","A comprehensive explanation of selinux, algorithm, optimi",0.6
+"An advanced understanding of apparmor, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of apparmor, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of apparmor, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.","apparmor, algorithm, optimization, efficiency, implementation",0.8
+"An advanced understanding of apparmor, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of apparmor, algorithm, optimization, includ",0.6
+"An advanced understanding of capability-based security, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of capability-based security, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.",1.0
+"An advanced understanding of capability-based security, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.","capability-based security, algorithm, optimization, efficiency, implementation",0.8
+"An advanced understanding of capability-based security, algorithm, optimization, including implementation details, trade-offs, and real-world use cases in OS.","An advanced understanding of capability-based security, algorithm, optimization",0.6
