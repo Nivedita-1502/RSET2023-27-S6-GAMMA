@@ -1,82 +1,107 @@
-# Group 16 - AI Based Interview Question Generator
+# Group 16 - AI Based Adaptive Interview Question Generator
 
 ## 📌 Project Description
 
-The **AI Based Interview Question Generator** is a system designed to generate relevant interview questions based on user input such as topic, domain, or difficulty level. The goal of this project is to assist students and job seekers in preparing effectively for technical interviews using AI-driven question generation.
+The **AI-Based Adaptive Interview Question Generator** is an intelligent system designed to help students prepare for technical interviews in a structured and interactive way.
+
+The system generates subject-based interview questions and evaluates user responses using Natural Language Processing (NLP) techniques. It also adapts the difficulty level of questions based on user performance, providing a personalized learning experience.
+
+---
+
+## 🎯 Problem Statement
+
+Existing interview preparation platforms provide static and non-personalized question sets. They do not evaluate user performance effectively or adapt to individual learning needs.
+
+This project addresses these limitations by developing an AI-based system that:
+
+* Generates dynamic interview questions
+* Evaluates answers automatically
+* Adapts question difficulty based on performance
 
 ---
 
 ## 🚀 Features
 
-* Generate interview questions automatically using AI
-* Supports multiple domains (DSA, OS, etc.)
-* Backend powered by machine learning models
-* Scalable architecture for future enhancements
-* Easy integration with frontend (if applicable)
+* Automatic interview question generation
+* Supports multiple subjects (DBMS, OS, DSA, etc.)
+* Answer evaluation using semantic similarity
+* Feedback and scoring system
+* Adaptive difficulty adjustment
+* Interactive web-based interface
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** HTML / CSS / JavaScript / React *(if used)*
-* **Backend:** Python *(Flask / FastAPI)*
-* **Machine Learning:** NLP / Transformer-based models *(if applicable)*
+* **Frontend:** React, HTML, CSS, JavaScript
+* **Backend:** Python, FastAPI
+* **Machine Learning:**
+  * Sentence Transformers
+  * Cross-Encoder Models
+* **Libraries:** Pandas, PyTorch
 
 ---
 
-## ⚙️ How to Run the Project
+## ⚙️ How the System Works
 
-### 🔹 Backend Setup
-
-```bash
-cd AI_Interview_Project/backend
-pip install -r requirements.txt
-python app.py
-```
-
-### 🔹 Frontend Setup (if available)
-
-```bash
-cd frontend
-npm install
-npm start
-```
+1. User selects subject and difficulty level
+2. System generates a relevant interview question
+3. User submits an answer
+4. Answer is converted into embeddings
+5. Semantic similarity is computed with model answer
+6. System classifies response:
+   * Correct
+   * Partially Correct
+   * Incorrect
+7. Feedback is provided
+8. Difficulty level is adjusted dynamically
 
 ---
 
 ## 📂 Project Structure
 
-```
 AI_Interview_Project/
 │
 ├── backend/
-│   ├── models/
-│   ├── routes/
-│   └── ...
-│
-├── frontend/ (if applicable)
-│
-└── README.md
-```
+│   ├── data/                # Dataset for interview questions
+│   ├── frontend/            # Frontend files 
+│   ├── routes/              # API route handlers
+│   ├── utils/               # Utility functions
+│   ├── app_Version3.py      # Main backend application
+│   ├── config_Version3.py   # Configuration settings
+│   ├── generate_eval_dataset_with_llama.py  # Dataset generation script
+│   ├── train_new_dataset_models.py          # Model training script
+│   └── requirements_Version3.txt            # Dependencies
+
+---
+
+## 🤖 Models (Brief)
+
+* Uses semantic similarity techniques for evaluation
+* Sentence Transformers for embeddings
+* Cross-Encoder for accurate similarity scoring
 
 ---
 
 ## 👥 Team Members
 
+* Melisa Ann Santhosh
+* Minna Boby
 * Nivedita S Menon
-* (Add other team members if any)
+* Rose Liz Martin
 
 ---
 
-## 📌 Future Improvements
+## 📌 Future Scope
 
-* Improve model accuracy and performance
-* Add more domains and datasets
-* Enhance user interface and experience
-* Deploy as a web application
+* Expand dataset with more subjects
+* Improve model accuracy
+* Support voice-based interview practice
+* Add performance tracking and analytics
+* Deploy as a full web application
 
 ---
 
 ## 📖 Conclusion
 
-This project demonstrates the application of AI and NLP techniques in automating interview preparation, making it more efficient and accessible.
+This project demonstrates how AI and NLP can be used to automate interview preparation. The system provides structured practice, adaptive learning, and automated feedback, helping students improve their technical interview skills effectively.
