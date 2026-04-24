@@ -1,0 +1,66 @@
+:root{
+  --primary:#0A4D8C;
+  --secondary:#2F80ED;
+  --light:#EAF4FF;
+  --white:#ffffff;
+}
+
+body{
+  margin:0;
+  font-family:'Segoe UI', sans-serif;
+  background:var(--light);
+
+  /* improve readability */
+  font-size:18px;
+}
+
+/* PAGE TITLE */
+
+.page-title{
+  text-align:center;
+  font-size:36px; /* slightly bigger */
+  font-weight:700;
+  color:var(--primary);
+  margin-bottom:30px;
+}
+
+/* MAIN CONTAINER */
+
+.container{
+  max-width:900px;
+  margin:auto;
+
+  /* keeps content centered nicely */
+  padding:20px;
+}
+
+/* CARD */
+
+.card{
+  background:var(--white);
+  border-radius:12px;
+  padding:30px; /* slightly larger padding */
+  box-shadow:0 8px 20px rgba(0,0,0,0.1);
+
+  /* keeps card centered */
+  width:100%;
+}
+
+/* BUTTON */
+
+.btn{
+  background:var(--secondary);
+  border:none;
+  padding:12px 25px;
+  color:white;
+  border-radius:8px;
+  cursor:pointer;
+
+  /* better button size */
+  font-size:16px;
+  font-weight:600;
+}
+
+.btn:hover{
+  background:var(--primary);
+}

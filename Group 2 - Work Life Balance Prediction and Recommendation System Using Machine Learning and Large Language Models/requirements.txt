@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pymongo
+python-jose
+pydantic
+scikit-learn
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+requests
